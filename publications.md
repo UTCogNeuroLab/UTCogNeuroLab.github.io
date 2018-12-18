@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Publications
+permalink: /publications/
 ---
 # __Publications__
 
