@@ -9,7 +9,7 @@ permalink: /about/
 
 # New Book to Be Released from Oxford University This Year
 
-[Add picture]
+[Add picture from old site]
 
 # Contact Us
 
