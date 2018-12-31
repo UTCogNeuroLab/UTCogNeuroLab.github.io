@@ -11,7 +11,7 @@ Our research is focused on the Cognitive Neuroscience of mental processes. Studi
 
 The purpose of this book is to present state-of-the-art scientific research in human performance optimization (HPO). Our aim is to provide a clearer understanding of the physical, psychological, and social effects on human functioning presented by the challenges of performing in extreme settings. At the same time, we seek to explore solutions for optimizing human performance in these settings. While the genesis for this book lay in military policymaking, the optimization of human performance through applied science and engineering will yield benefits to a broad spectrum of human activities.
 
-<img src="assets/HBO_book.jpg" alt="Oxford Book" height="500" width="550" style="float: right;">
+<img src="assets/HPO_book.jpg" alt="Oxford Book" height="500" width="550" style="float: right;">
 
 # Contact Us
 
