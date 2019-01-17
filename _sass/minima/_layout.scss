@@ -252,5 +252,12 @@
     @include media-query($on-laptop) {
       @include relative-font-size(1.125);
     }
+   /*this code below for "center" is from W3 school*/
+    .center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+    }
   }
 }
