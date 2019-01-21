@@ -8,6 +8,7 @@ googlescholar:
 researchgate: 
 website: 
 orcid: 
+email:
 permalink: /[add your name]/
 ---
 

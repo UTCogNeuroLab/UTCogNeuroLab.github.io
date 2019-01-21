@@ -33,6 +33,9 @@ layout: default
     {% if page.researchgate %}
         <a href="https://www.researchgate.net/profile/{{ page.researchgate }}" target="_blank"><i class="ai ai-researchgate-square ai-2x"></i></a>
     {% endif %}
+    {% if page.email %}
+        <a href="mailto: {{ page.email }}"><i class="fas fa-envelope-square fa-2x"></i></a>
+    {% endif %}
     {% if page.website %}
         <a href="{{ page.website }}" target="_blank"><i class="fas fa-external-link-square-alt fa-2x"></i></a>
     {% endif %}

@@ -8,5 +8,6 @@ googlescholar:
 researchgate: 
 website: 
 orcid: 
+email:
 permalink: /alexalario/
 ---
