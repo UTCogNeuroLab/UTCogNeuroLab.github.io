@@ -2,3 +2,41 @@
 layout: default
 ---
 
+<!--
+    Each team member page will have a title, layout, position,a permalink,
+    an image, and their respective social media icons. There will be a series of
+    if statements to determine what social media they have and how it will show up
+    on their individual pages.
+-->
+
+<div>
+    {% if page.image %}
+        <img src={{page.image}} hspace="10" style="width:230px; height:300px; float:left; margin: 10px">
+    {% else %}
+        <img src="/assets/placeholder.jpg" hspace="10" style="width:230px; height:300px; float:left; margin: 10px">
+    {%- endif -%}
+</div>
+<div>
+    <h1 style="margin-bottom:0;">{{page.person}}</h1> 
+    <h4 style="margin-top:0;">{{page.position}}</h4>
+</div>
+<div>
+    {% if page.github %}
+        <a href="https://github.com/{{ page.github }}" target="_blank"><i class="fab fa-github-square fa-2x"></i></a>
+    {% endif %}
+    {% if page.orcid %}
+        <a href="https://orcid.org/{{ page.orcid }}" target="_blank"><i class="ai ai-orcid-square ai-2x"></i></a>
+    {% endif %}
+    {% if page.googlescholar %}
+        <a href="http://scholar.google.com/citations?user={{ page.googlescholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a>
+    {% endif %}
+    {% if page.researchgate %}
+        <a href="https://www.researchgate.net/profile/{{ page.researchgate }}" target="_blank"><i class="ai ai-researchgate-square ai-2x"></i></a>
+    {% endif %}
+    {% if page.website %}
+        <a href="{{ page.website }}" target="_blank"><i class="fas fa-external-link-square-alt fa-2x"></i></a>
+    {% endif %}
+</div>
+<div class="post-content" style="float:left">
+    {{ content }}
+  </div>
