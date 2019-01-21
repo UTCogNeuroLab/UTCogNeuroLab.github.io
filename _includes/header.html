@@ -4,7 +4,7 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-    <a href="https://www.utexas.edu/" target="_blank"><img src="/assets/UT.jpg" hspace="20"></a>
+    <a href="https://www.utexas.edu/" target="_blank"><img src="/assets/UT.jpg" width="50" height="50" hspace="20"></a>
 
     {%- if page_paths -%}
       <nav class="site-nav">
