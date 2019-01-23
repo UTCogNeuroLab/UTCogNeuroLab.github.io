@@ -2,7 +2,7 @@
 layout: team-member
 person: "Guadalupe Gonzalez"
 position: "Graduate Student"
-image: 
+image: "/assets/GuadalupeGonzalez.jpeg"
 github: 
 googlescholar: 
 researchgate: 

@@ -56,7 +56,7 @@ ________________________________________________________________________________
 
 <div>
 
-<img src="/assets/placeholder.jpg" hspace="10" style="width:150px; height:200px; float:left; margin: 10px;">
+<img src="/assets/nicholas-griffin.jpg" hspace="10" style="width:150px; height:200px; float:left; margin: 10px;">
 <h3 style="margin-bottom:0;"> <a href="/nicholasgriffin/"> Nicholas Griffin </a></h3>
 <h5 style="margin-top:0;"> Graduate Student </h5>
 
@@ -66,7 +66,7 @@ ________________________________________________________________________________
 
 <div>
 
-<img src="/assets/placeholder.jpg" hspace="10" style="width:150px; height:200px; float:left; margin: 10px;">
+<img src="/assets/GuadalupeGonzalez.jpeg" hspace="10" style="width:150px; height:200px; float:left; margin: 10px;">
 <h3 style="margin-bottom:0;"> <a href="/guadalupegonzalez/"> Guadalupe Gonzalez</a></h3>
 <h5 style="margin-top:0;"> Graduate Student </h5>
 
