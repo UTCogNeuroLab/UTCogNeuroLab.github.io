@@ -3,7 +3,7 @@ layout: team-member
 person: "Nicholas Griffin"
 position: "Graduate Student"
 image: "/assets/nicholas-griffin.jpg"
-github: 
+github: nrgriffin
 googlescholar: 
 researchgate: 
 website: 

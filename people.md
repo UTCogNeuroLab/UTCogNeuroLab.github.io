@@ -47,7 +47,8 @@ ________________________________________________________________________________
 <img src="/assets/esther-goeke.jpg" hspace="10" style="width:150px; height:200px; float:left; margin: 10px;">
 <h3 style="margin-bottom:0; "> <a href="/esthergoeke/"> Esther Goeke </a></h3>
 <h5 style="margin-top:0; margin-bottom:0"> Chief Study Coordinator</h5>
-<h5 style="margin-top:0;"> TRACK-TBI</h5>
+<h5 style="margin-top:0; margin-bottom:0;"> TRACK-TBI</h5>
+<a href="https://github.com/egoeke" target="_blank"><i class="fab fa-github-square fa-lg"></i></a>
 
 
 </div>
@@ -58,7 +59,8 @@ ________________________________________________________________________________
 
 <img src="/assets/nicholas-griffin.jpg" hspace="10" style="width:150px; height:200px; float:left; margin: 10px;">
 <h3 style="margin-bottom:0;"> <a href="/nicholasgriffin/"> Nicholas Griffin </a></h3>
-<h5 style="margin-top:0;"> Graduate Student </h5>
+<h5 style="margin-top:0; margin-bottom:0;"> Graduate Student </h5>
+<a href="https://github.com/nrgriffin" target="_blank"><i class="fab fa-github-square fa-lg"></i></a>
 
 </div>
 
@@ -104,7 +106,18 @@ ________________________________________________________________________________
 <div>
 
 <img src="/assets/placeholder.jpg" hspace="10" style="width:150px; height:200px; float:left; margin: 10px;">
-<h3 style="margin-bottom:0;"> <a href="/alexalario/"> Alex Alario</a></h3>
+<h3 style="margin-bottom:0;"> <a href="/sarahlewis/"> Sarah Lewis</a></h3>
 <h5 style="margin-top:0;"> Graduate Student </h5>
+
+</div>
+
+<p style="clear: both;">
+
+<div>
+
+<img src="/assets/placeholder.jpg" hspace="10" style="width:150px; height:200px; float:left; margin: 10px;">
+<h3 style="margin-bottom:0;"> <a href="/alexalario/"> Alex Alario</a></h3>
+<h5 style="margin-top:0; margin-bottom:0;"> Senior Undergraduate Student </h5>
+<a href="https://github.com/alexalario" target="_blank"><i class="fab fa-github-square fa-lg"></i></a>
 
 </div>

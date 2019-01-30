@@ -1,13 +1,13 @@
 ---
 layout: team-member
-person: "Alex Alario"
+person: "Sarah Lewis"
 position: "Graduate Student"
 image: 
-github: alexalario
+github: 
 googlescholar: 
 researchgate: 
 website: 
 orcid: 
 email:
-permalink: /alexalario/
+permalink: /sarahlewis/
 ---
