@@ -39,6 +39,9 @@ layout: default
     {% if page.website %}
         <a href="{{ page.website }}" target="_blank"><i class="fas fa-external-link-square-alt fa-2x"></i></a>
     {% endif %}
+    {% if page.linkedin %}
+        <a href="{{ page.linkedin }}" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a>
+    {% endif %}
 </div>
 <div class="post-content" style="float:left">
     {{ content }}

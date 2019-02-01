@@ -8,6 +8,7 @@ googlescholar:
 researchgate: 
 website: 
 orcid: 
+linkedin:
 email: schnyer@utexas.edu
 permalink: /davidmschnyer/
 ---

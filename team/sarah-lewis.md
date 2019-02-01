@@ -8,6 +8,7 @@ googlescholar:
 researchgate: 
 website: 
 orcid: 
+linkedin:
 email:
 permalink: /sarahlewis/
 ---

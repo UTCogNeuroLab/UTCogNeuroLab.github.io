@@ -70,7 +70,11 @@ ________________________________________________________________________________
 
 <img src="/assets/GuadalupeGonzalez.jpeg" hspace="10" style="width:150px; height:200px; float:left; margin: 10px;">
 <h3 style="margin-bottom:0;"> <a href="/guadalupegonzalez/"> Guadalupe Gonzalez</a></h3>
-<h5 style="margin-top:0;"> Graduate Student </h5>
+<h5 style="margin-top:0; margin-bottom:0;"> Graduate Student </h5>
+<a href="https://www.researchgate.net/profile/Guadalupe_Gonzalez25" target="_blank"><i class="ai ai-researchgate-square ai-lg"></i></a>
+<a href="http://scholar.google.com/citations?user=wMbLAigAAAAJ&hl=en&citsig=AMD79opA7ynYpznqTIUP7N7hn0SzileNpw" target="_blank"><i class="ai ai-google-scholar-square ai-lg"></i></a>
+<a href=" https://liberalarts.utexas.edu/psychology/graduate/profile.php?id=gsg569" target="_blank"><i class="fas fa-external-link-square-alt fa-lg"></i></a>
+<a href="https://www.linkedin.com/in/guadalupe-gonzalez-b4a0489a" target="_blank"><i class="fab fab fa-linkedin fa-lg"></i></a>
 
 </div>
 

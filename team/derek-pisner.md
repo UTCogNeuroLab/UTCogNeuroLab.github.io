@@ -8,6 +8,7 @@ googlescholar: fxkMpsYAAAAJ&hl
 researchgate: 
 website: https://dpys.github.io/
 orcid: 
+linkedin:
 email:
 permalink: /derekpisner/
 ---
