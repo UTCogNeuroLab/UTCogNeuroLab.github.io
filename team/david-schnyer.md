@@ -5,7 +5,7 @@ position: "Lab Director"
 image: "/assets/david-schnyer.png"
 github: Dschnyer
 googlescholar: 
-researchgate: 
+researchgate: David_Schnyer
 website: 
 orcid: 
 linkedin:
