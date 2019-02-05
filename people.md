@@ -71,6 +71,16 @@ ________________________________________________________________________________
 
 <div>
 
+<img src="/assets/placeholder.jpg" hspace="10" style="width:150px; height:200px; float:left; margin: 10px;">
+<h3 style="margin-bottom:0;"> <a href="/people/sarahlewis/"> Sarah Lewis</a></h3>
+<h5 style="margin-top:0;"> Study Coordinator, TRACK-TBI </h5>
+
+</div>
+
+<p style="clear: both;">
+
+<div>
+
 <img src="/assets/nicholas-griffin.jpg" hspace="10" style="width:150px; height:200px; float:left; margin: 10px;">
 <h3 style="margin-bottom:0;"> <a href="/people/nicholasgriffin/"> Nicholas Griffin </a></h3>
 <h5 style="margin-top:0; margin-bottom:0;"> Graduate Student </h5>
@@ -116,16 +126,6 @@ ________________________________________________________________________________
 <a href="http://scholar.google.com/citations?user=gQt3NCoAAAAJ" target="_blank"><i class="ai ai-google-scholar-square ai-lg"></i></a>
 <a href=" https://liberalarts.utexas.edu/psychology/graduate/profile.php?id=mcm5324" target="_blank"><i class="fas fa-external-link-square-alt fa-lg"></i></a>
 <a href="https://github.com/mcmahonmc" target="_blank"><i class="fab fa-github-square fa-lg"></i></a>
-
-</div>
-
-<p style="clear: both;">
-
-<div>
-
-<img src="/assets/placeholder.jpg" hspace="10" style="width:150px; height:200px; float:left; margin: 10px;">
-<h3 style="margin-bottom:0;"> <a href="/people/sarahlewis/"> Sarah Lewis</a></h3>
-<h5 style="margin-top:0;"> Graduate Student </h5>
 
 </div>
 
