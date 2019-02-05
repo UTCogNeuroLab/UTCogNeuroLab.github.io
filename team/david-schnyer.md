@@ -2,7 +2,7 @@
 layout: team-member
 person: "David M Schnyer, PhD"
 position: "Lab Director"
-image: 
+image: "/assets/david-schnyer.png"
 github: Dschnyer
 googlescholar: 
 researchgate: 
