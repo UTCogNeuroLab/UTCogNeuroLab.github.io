@@ -13,3 +13,7 @@ email:
 twitter:
 permalink: /meganmcmahon/
 ---
+
+#### Posters
+
+[Age-related changes in aspects of the sleep-activity cycle and their relationship to associative memory performance ](/research_images/DACC Poster McMahon.pdf/)

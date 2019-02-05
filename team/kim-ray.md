@@ -18,6 +18,10 @@ Kimberly Ray, PhD is a Research Scientist working in the Cognitive Neuroscience 
 
 Her research interests involve using functional magnetic resonance imaging (fMRI) and other imaging modalities to elucidate the functional and structural architecture of the human brain and examine how brain networks flexibly reorganize to efficiently carryout a given goal-directed task. 
 
+#### Posters
+
+[Relationships between Depression Vulnerability and Brain Networks: A multimodal EEG fMRI study](/research_images/OHBM_Poster_KLR.pdf/)
+
 #### Publications (Selected)
 
 1)    Ray KL, Lesh T, Howell A, Salo T, Ragland JD, MacDonald A, Gold J, Silverstein S, Barch D, Carter CS. Functional Network Changes and Cognitive Control in Schizophrenia. NeuroImage: Clinical 15, 161-170, 2017.
