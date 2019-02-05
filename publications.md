@@ -8,6 +8,7 @@ permalink: /publications/
 |**2019**|
 |Gonzalez, G. D. S., & Schnyer, D. M. (2019). Attention and Working Memory Biases to Black and Asian Faces During Intergroup Contexts. Frontiers in Psychology, 9, 385. http://doi.org/10.3389/fpsyg.2018.02743.|
 |Mathews, M.D., & Schnyer, D.M. (Eds). Human Performance Optimization: The Science and Ethics of Enhancing Human Capabilities. (2019).|
+
 |**2018**|
 |Hsu, K. J., Caffey, K., Pisner, D., Shumake, J., Risom, S., Ray, K. L., Smits, J.A.J, Schnyer, D.M. & Beevers, C.G. (2018). Attentional bias modification treatment for depression: Study protocol for a randomized controlled trial. Contemporary Clinical Trials, 75, 59–66. http://doi.org/10.1016/j.cct.2018.10.014.|
 |Dobbins, I.G. & Schnyer, D.M. (2018). Convergent methods of memory research. In The Stevens Handbook of Experimental Psychology and Cognitive Neuroscience, Fourth Edition.|
