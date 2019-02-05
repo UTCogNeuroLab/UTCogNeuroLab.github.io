@@ -16,7 +16,7 @@ permalink: /[add your name]/
 
 [Add your bio here]
 
-#### Posters
+#### Posters:
 
 If you have any posters, you may link them here. If none, then take out this section.
 
@@ -24,7 +24,7 @@ To link to a PDF of your poster, follow this guide:
 
 [The Name of Your Poster](/research_images/name_of_poster.pdf/)
 
-#### Publications
+#### Publications:
 
 Add in a list of your publications. If none, then take out this section.
 
