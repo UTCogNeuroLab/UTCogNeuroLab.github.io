@@ -5,15 +5,16 @@ permalink: /publications/
 ---
 # __Publications__
 
-|**2018**|
+|**2019**|
 |Gonzalez, G. D. S., & Schnyer, D. M. (2019). Attention and Working Memory Biases to Black and Asian Faces During Intergroup Contexts. Frontiers in Psychology, 9, 385. http://doi.org/10.3389/fpsyg.2018.02743.|
 |Mathews, M.D., & Schnyer, D.M. (Eds). Human Performance Optimization: The Science and Ethics of Enhancing Human Capabilities. (2019).|
+|**2018**|
 |Hsu, K. J., Caffey, K., Pisner, D., Shumake, J., Risom, S., Ray, K. L., Smits, J.A.J, Schnyer, D.M. & Beevers, C.G. (2018). Attentional bias modification treatment for depression: Study protocol for a randomized controlled trial. Contemporary Clinical Trials, 75, 59–66. http://doi.org/10.1016/j.cct.2018.10.014.|
 |Dobbins, I.G. & Schnyer, D.M. (2018). Convergent methods of memory research. In The Stevens Handbook of Experimental Psychology and Cognitive Neuroscience, Fourth Edition.|
 |Yue, J. K., Winkler, E. A., Puffer, R. C., Deng, H., Phelps, R. R. L., Wagle, S., Morrissey, M.R., Rivera, E.J., Runyon, S.J., Vassar, M.J., Taylor, S.R., Cnossen, M.C., Lingsma, H.L., Yuh, E.L., Mukherjee, P., Schnyer, D.M., Puccio, A.M., Valadka, A.B., Okonkwo, D.O., Manley, G.T. & TRACK-TBI Investigators. (2018). Temporal lobe contusions on computed tomography are associated with impaired 6-month functional recovery after mild traumatic brain injury: a TRACK-TBI study. Neurological Research, 40(11), 972–981.|
 |Wickwire, E.M., Schnyer, D.M. Germain, A, Williams, S.G., Lettieri, C.J., McKeon, A.B., Scharf, S.M., Stocker, R., Albrecht, J., Badjatia, N., Markowitz, A.J. & Manley, G.T. (Accepted). Sleep, sleep disorders, and circadian health following mild traumatic brain injury: Review and research agenda, Journal of Neurotrauma.| 
 |Rubenstein, R., Chang, B., Yue, J. K., Chiu, A., Winkler, E. A., Puccio, A. M., Diaz-Arrastia R., Yuh E.L., Mukherjee P., Valadka A.B., Gordon W.A., Okonkwo D.O., Davies P., Agarwal S., Lin F., Sarkis G., Yadikar H., Yang Z., Manley G.T., Wang K.K.W.; and the TRACK-TBI Investigators, Cooper S.R., Dams-O'Connor K., Borrasso A.J., Inoue T., Maas A.I.R., Menon D.K., Schnyer D.M., & Vassar M.J. (2017). Comparing Plasma Phospho Tau, Total Tau, and Phospho Tau-Total Tau Ratio as Acute and Chronic Traumatic Brain Injury Biomarkers. JAMA Neurology, 74(9), 1063–1072.| 
-|Neville, C., Baracks, J., Casa, D., Covassin, T., Sacko, R., Scarneo, S., Schnyer, D. & Yeargin, S. (Accepted) Acute sports-related concussion screening for collegiate athletes using an instrumented balance assessment. Journal of Athletic Training.|
+|Baracks J., Casa D.J., Covassin T., Sacko R., Scarneo S.E., Schnyer D.M., Yeargin S.W., Neville C. (2018). Acute Sport-Related Concussion Screening for Collegiate Athletes Using an Instrumented Balance Assessment., 53(6), 597–605. http://doi.org/10.4085/1062-6050-174-17|
 
 |**2017**|
 |Ameri, S.K., Ho, R., Jang, H., Tao, L., Wang, Y., Wang, W., Schnyer, D.M., Akinwande, D., & Lu, N. (2017). Graphene Electronic Tattoo Sensors, ACS Nano, 11, 7634–7641.|
