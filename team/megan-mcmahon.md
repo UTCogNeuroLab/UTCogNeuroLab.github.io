@@ -11,7 +11,7 @@ orcid:
 linkedin:
 email:
 twitter:
-permalink: /meganmcmahon/
+permalink: /people/meganmcmahon/
 ---
 
 #### Posters:

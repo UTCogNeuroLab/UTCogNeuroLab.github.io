@@ -11,7 +11,7 @@ orcid: 0000-0003-1302-2834
 linkedin:
 email:
 twitter:
-permalink: /kimray/
+permalink: /people/kimray/
 ---
 
 Kimberly Ray, PhD is a Research Scientist working in the Cognitive Neuroscience lab under the direction of Dr. David Schnyer. She earned a bachelors degree in physics from Texas Lutheran University, and a PhD in Radiological Sciences with an emphasis on human neuroimaging from the University of Texas Health Science Center in San Antonio.  She also completed a postdoctoral fellowship at the University of California in Davis under the direction of Dr. Cameron Carter. 

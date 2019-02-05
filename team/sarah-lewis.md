@@ -11,5 +11,5 @@ orcid:
 linkedin:
 email:
 twitter:
-permalink: /sarahlewis/
+permalink: /people/sarahlewis/
 ---

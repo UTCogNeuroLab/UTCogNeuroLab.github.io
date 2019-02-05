@@ -11,7 +11,7 @@ orcid:
 linkedin: https://www.linkedin.com/in/guadalupe-gonzalez-b4a0489a
 email:
 twitter:
-permalink: /guadalupegonzalez/
+permalink: /people/guadalupegonzalez/
 ---
 
 Lupita is a fourth-year graduate student in the Cognitive Neuroscience lab under the direction of Dr. David Schnyer. She received her B.A. in Psychology and Business Administration with a Neuroscience certificate at Bethel College in Kansas. As a graduate student, she is a member of the psychology department’s Diversity Committee and mentors undergraduates through the psychology department’s Summer Undergraduate Research Experience (SURE) program and UT’s IE Pre-Graduate Program.

@@ -11,7 +11,7 @@ orcid:
 linkedin:
 email:
 twitter:
-permalink: /esthergoeke/
+permalink: /people/esthergoeke/
 ---
 
 #### Posters:

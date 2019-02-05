@@ -11,7 +11,7 @@ orcid:
 linkedin: add the full link here
 email:
 twitter:
-permalink: /[add your name]/
+permalink: /people/[add your name]/
 ---
 
 [Add your bio here]
@@ -22,7 +22,7 @@ If you have any posters, you may link them here. If none, then take out this sec
 
 To link to a PDF of your poster, follow this guide:
 
-[The Name of Your Poster](/research_images/name_of_poster.pdf/)
+[The Name of Your Poster](insert the link from GitHub to your poster)
 
 #### Publications:
 

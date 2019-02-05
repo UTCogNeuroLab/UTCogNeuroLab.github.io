@@ -11,5 +11,5 @@ orcid:
 linkedin:
 email:
 twitter:
-permalink: /alexalario/
+permalink: /people/alexalario/
 ---

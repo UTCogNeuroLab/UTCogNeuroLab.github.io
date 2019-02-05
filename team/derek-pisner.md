@@ -11,5 +11,5 @@ orcid:
 linkedin:
 email:
 twitter:
-permalink: /derekpisner/
+permalink: /people/derekpisner/
 ---
