@@ -14,6 +14,10 @@ twitter:
 permalink: /people/meganmcmahon/
 ---
 
+Megan is a first year doctoral student in the clinical psychology program. Previously, Megan worked at Virginia Commonwealth University where she developed research experience in traumatic brain injury, clinical trials, brain computer interface, and disability and stigma. In addition, Megan directed Virginia Catalyst's funding initative, which awards grants to collaborative project teams of university and industry leaders seeking to commercialize translational research innovations that improve human health.
+
+Megan is interested in identifying predictors of age-related cognitive changes. Her current focus is on the relationships between circadian rhythms, neural networks, and associative memory in older adults.
+
 #### Posters:
 
 [Age-related changes in aspects of the sleep-activity cycle and their relationship to associative memory performance ](https://github.com/UTCogNeuroLab/UTCogNeuroLab.github.io/blob/master/research_images/DACC%20Poster%20McMahon.pdf)
