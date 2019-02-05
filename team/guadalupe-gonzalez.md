@@ -21,4 +21,5 @@ Lupita’s research interests include the use of neuroimaging methods to examine
 #### Publications:
 
 Gonzalez, G.D.S., & Schnyer, D.M. (2019) Attention and working memory biases to Black and 
-Asian faces during intergroup contexts. Frontiers in Psychology, 9, 2743. http://doi.org/10.3389/fpsyg.2018.02743
+Asian faces during intergroup contexts. Frontiers in Psychology, 9, 2743.[Link to Paper]
+(http://doi.org/10.3389/fpsyg.2018.02743)
