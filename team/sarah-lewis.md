@@ -1,7 +1,7 @@
 ---
 layout: team-member
 person: "Sarah Lewis"
-position: "Graduate Student"
+position: "Study Coordinator, TRACK-TBI"
 image: 
 github: 
 googlescholar: 
