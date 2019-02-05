@@ -10,6 +10,7 @@ website: https://liberalarts.utexas.edu/psychology/graduate/profile.php?id=gsg56
 orcid: 
 linkedin: https://www.linkedin.com/in/guadalupe-gonzalez-b4a0489a
 email:
+twitter:
 permalink: /guadalupegonzalez/
 ---
 

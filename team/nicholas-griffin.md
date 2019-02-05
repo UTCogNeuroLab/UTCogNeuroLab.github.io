@@ -10,6 +10,7 @@ website:
 orcid: 
 linkedin:
 email:
+twitter:
 permalink: /nicholasgriffin/
 ---
 

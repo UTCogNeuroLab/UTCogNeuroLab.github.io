@@ -10,5 +10,6 @@ website: https://dpys.github.io/
 orcid: 
 linkedin:
 email:
+twitter:
 permalink: /derekpisner/
 ---

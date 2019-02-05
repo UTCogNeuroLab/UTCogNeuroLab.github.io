@@ -10,5 +10,6 @@ website: https://liberalarts.utexas.edu/psychology/graduate/profile.php?id=mcm53
 orcid: 
 linkedin:
 email:
+twitter:
 permalink: /meganmcmahon/
 ---

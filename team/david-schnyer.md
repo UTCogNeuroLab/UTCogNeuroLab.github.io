@@ -10,6 +10,7 @@ website:
 orcid: 
 linkedin:
 email: schnyer@utexas.edu
+twitter: DMSchnyer
 permalink: /davidmschnyer/
 ---
 

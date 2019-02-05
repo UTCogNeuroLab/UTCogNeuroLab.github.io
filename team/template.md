@@ -10,6 +10,7 @@ website:
 orcid: 
 linkedin: add the full link here
 email:
+twitter:
 permalink: /[add your name]/
 ---
 

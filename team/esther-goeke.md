@@ -10,5 +10,6 @@ website:
 orcid: 
 linkedin:
 email:
+twitter:
 permalink: /esthergoeke/
 ---

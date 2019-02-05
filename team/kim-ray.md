@@ -10,6 +10,7 @@ website:
 orcid: 0000-0003-1302-2834
 linkedin:
 email:
+twitter:
 permalink: /kimray/
 ---
 
