@@ -20,7 +20,7 @@ Her research interests involve using functional magnetic resonance imaging (fMRI
 
 #### Posters:
 
-[OHBM 2018: Relationships between Depression Vulnerability and Brain Networks: A multimodal EEG fMRI study](https://github.com/UTCogNeuroLab/UTCogNeuroLab.github.io/blob/master/research_images/OHBM_Poster_KLR.pdf)
+[OHBM 2018: Relationships between Depression Vulnerability and Brain Networks: A multimodal EEG fMRI study](/assets/posters/OHBM_Poster_KLR.pdf)
 
 #### Publications (Selected):
 
