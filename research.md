@@ -15,7 +15,7 @@ permalink: /research/
 
 <!-- This is for Track-TBI -->
 
-<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><a href="/research/track-tbi/"><img src="/assets/research/Research_TRACKTBI.jpg" style="width: 100%; border: 2px solid black;"></a><font size="3">TRACK-TBI</font></p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><a href="/research/track-tbi/"><img src="/assets/research/Research_TrackTBI.jpg" style="width: 100%; border: 2px solid black;"></a><font size="3">TRACK-TBI</font></p>
 
 <!-- Add in a break for the next line -->
 
