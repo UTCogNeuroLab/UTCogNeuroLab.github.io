@@ -22,7 +22,7 @@ If you have any posters, you may link them here. If none, then take out this sec
 
 To link to a PDF of your poster, follow this guide:
 
-[The Name of Your Poster](insert the link from GitHub to your poster)
+[The Name of Your Poster](/assets/posters/name-of-file.pdf)
 
 #### Publications:
 

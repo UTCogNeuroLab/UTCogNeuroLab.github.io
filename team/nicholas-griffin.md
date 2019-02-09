@@ -18,7 +18,7 @@ Nicholas Griffin is a fifth year graduate student working with Dr. David Schnyer
 
 #### Posters:
 
-[Actigraphy Monitoring of Sleep Disturbance and Translations to Traumatic Brain Injury](https://github.com/UTCogNeuroLab/UTCogNeuroLab.github.io/blob/master/research_images/CARE_Poster.pptx.pdf)
+[Actigraphy Monitoring of Sleep Disturbance and Translations to Traumatic Brain Injury](/assets/posters/CARE_Poster.pptx.pdf)
 
 #### Publications:
 
