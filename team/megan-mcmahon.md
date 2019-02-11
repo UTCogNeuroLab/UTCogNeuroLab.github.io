@@ -20,4 +20,4 @@ Megan is interested in identifying predictors of age-related cognitive changes. 
 
 #### Posters:
 
-[Age-related changes in aspects of the sleep-activity cycle and their relationship to associative memory performance ](https://github.com/UTCogNeuroLab/UTCogNeuroLab.github.io/blob/master/research_images/DACC%20Poster%20McMahon.pdf)
+[Age-related changes in aspects of the sleep-activity cycle and their relationship to associative memory performance ](/assets/posters/DACC Poster McMahon.pdf)
