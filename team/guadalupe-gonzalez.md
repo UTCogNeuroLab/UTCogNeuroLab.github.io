@@ -29,14 +29,14 @@ Lupita’s research interests include the use of neuroimaging methods to examine
 	Houston, TX.](/assets/posters/2018ARMADILLO_Lupita.pdf)
   
 [Gonzalez, G.D.S., & Schnyer, D.M. (2018, March). Race for attention: Competing racial stimuli and 
-	working memory. Poster presented at the 2018 Society for Personality and Social Psychology Conference, Atlanta, GA.](/assets/posters/2018SPSP_Lupita.pdf)
+	working memory. Poster presented at the 2018 Society for Personality and Social Psychology Convention, Atlanta, GA.](/assets/posters/2018SPSP_Lupita.pdf)
 
 [Gonzalez, G.D.S., & Schnyer, D.M. (2017, June). Effects of racial bias on working memory during
 	competition for attention: An ERP study. Poster presented at the 2017 Organization for
 	Human Brain Mapping Conference, Vancouver, British Columbia, Canada.](/assets/posters/2017OHBM_Lupita.pdf)
   
 [Gonzalez, G.D.S., & Schnyer, D.M. (2016, September). Why does the world seem whiter than it is:
-	Examining racial bias using a VSTM task. Poster presented at the 2016 Ford Conference,
+	Examining racial bias using a VSTM task. Poster presented at the 2016 Conference of Ford Fellows,
 	Washington D.C.](/assets/posters/2016FordConference_Lupita.pdf)
 
 #### Publications:
