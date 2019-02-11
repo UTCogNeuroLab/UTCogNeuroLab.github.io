@@ -4,12 +4,12 @@ person: "Nicholas Griffin"
 position: "Graduate Student"
 image: "/assets/nicholas-griffin.jpg"
 github: nrgriffin
-googlescholar: 
+googlescholar: https://scholar.google.com/citations?view_op=list_works&hl=en&user=QBwyHvUAAAAJ
 researchgate: 
 website: 
 orcid: 
-linkedin:
-email:
+linkedin: https://www.linkedin.com/in/nicholas-griffin-b390aa162/
+email: ngriffin@utexas.edu
 twitter:
 permalink: /people/nicholasgriffin/
 ---
