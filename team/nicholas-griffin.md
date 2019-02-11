@@ -19,6 +19,7 @@ Nicholas Griffin is a fifth year graduate student working with Dr. David Schnyer
 #### Posters:
 
 [Actigraphy Monitoring of Sleep Disturbance and Translations to Traumatic Brain Injury](/assets/posters/CARE_Poster.pptx.pdf)
+[Event-Related Brain Responses to Lexical Encoding Exposures Predicts Subsequent False Endorsement of Orthographically Related Lures](/assets/posters/SfN Poster 2018 NRG.pdf)
 
 #### Publications:
 
