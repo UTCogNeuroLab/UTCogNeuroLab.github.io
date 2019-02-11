@@ -26,6 +26,8 @@ Nicholas Griffin is a fifth year graduate student working with Dr. David Schnyer
 
 [Actigraphy Monitoring of Sleep Disturbance and Physical Activity in Adults with Depressive Symptoms](/assets/posters/ABCT_Conference.pdf)
 
+[Returning to form: Factors affecting sleep disturbance duration and recovery following traumatic brain injury](/assets/posters/TBI_poster_UTLuncheon.pdf)
+
 #### Publications:
 
 Griffin, N. R., Fleck, C. R., Uitvlugt, M. G., Ravizza, S. M., & Fenn, K. M. (2017). The tweeter matters: Factors that affect false memory from Twitter. Computers in Human Behavior, 77, 63-68.  
