@@ -6,7 +6,7 @@ image: "/assets/nicholas-griffin.jpg"
 github: nrgriffin
 googlescholar: https://scholar.google.com/citations?view_op=list_works&hl=en&user=QBwyHvUAAAAJ
 researchgate: 
-website: 
+website: https://liberalarts.utexas.edu/psychology/graduate/profile.php?id=nrg672
 orcid: 
 linkedin: https://www.linkedin.com/in/nicholas-griffin-b390aa162/
 email: ngriffin@utexas.edu
