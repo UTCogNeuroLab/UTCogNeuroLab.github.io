@@ -22,6 +22,8 @@ Nicholas Griffin is a fifth year graduate student working with Dr. David Schnyer
 
 [Event-Related Brain Responses to Lexical Encoding Exposures Predicts Subsequent False Endorsement of Orthographically Related Lures](/assets/posters/SfNPoster_2018_NRG.pdf)
 
+[Mechanisms Underlying Memory Distortion for Emotional Orthographic Associates with EEG](/assets/posters/CNS_Poster_3_19_18_NRG.pdf)
+
 #### Publications:
 
 Griffin, N. R., Fleck, C. R., Uitvlugt, M. G., Ravizza, S. M., & Fenn, K. M. (2017). The tweeter matters: Factors that affect false memory from Twitter. Computers in Human Behavior, 77, 63-68.  
