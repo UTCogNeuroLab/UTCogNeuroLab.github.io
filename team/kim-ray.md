@@ -14,7 +14,7 @@ twitter:
 permalink: /people/kimray/
 ---
 
-Kimberly Ray, PhD is a Research Scientist working in the Cognitive Neuroscience lab under the direction of Dr. David Schnyer. She earned a bachelors degree in physics from Texas Lutheran University, and a PhD in Radiological Sciences with an emphasis on human neuroimaging from the University of Texas Health Science Center in San Antonio.  She also completed a postdoctoral fellowship at the University of California in Davis under the direction of Dr. Cameron Carter. 
+Kimberly Ray, PhD is a Research Scientist working in the Cognitive Neuroscience lab under the direction of Dr. David Schnyer. She earned a bachelors degree in physics from Texas Lutheran University, and a PhD in Radiological Sciences with an emphasis on human neuroimaging from the University of Texas Health Science Center in San Antonio (dissertaion advisor: Dr. Angela Laird).  She also completed a postdoctoral fellowship at the University of California in Davis under the direction of Dr. Cameron Carter. 
 
 Her research interests involve using functional magnetic resonance imaging (fMRI) and other imaging modalities to elucidate the functional and structural architecture of the human brain and examine how brain networks flexibly reorganize to efficiently carryout a given goal-directed task. 
 
