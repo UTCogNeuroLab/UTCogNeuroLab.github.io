@@ -71,7 +71,7 @@ ________________________________________________________________________________
 
 <div>
 
-<img src="/assets/placeholder.jpg" hspace="10" style="width:150px; height:200px; float:left; margin: 10px;">
+<img src="/assets/Sarah-Lewis.jpg" hspace="10" style="width:150px; height:200px; float:left; margin: 10px;">
 <h3 style="margin-bottom:0;"> <a href="/people/sarahlewis/"> Sarah Lewis</a></h3>
 <h5 style="margin-top:0;"> Study Coordinator, TRACK-TBI </h5>
 
