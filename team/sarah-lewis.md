@@ -2,7 +2,7 @@
 layout: team-member
 person: "Sarah Lewis"
 position: "Study Coordinator, TRACK-TBI"
-image: 
+image: "/assets/Sarah-Lewis.jpg"
 github: 
 googlescholar: 
 researchgate: 
