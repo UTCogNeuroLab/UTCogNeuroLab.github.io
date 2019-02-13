@@ -4,7 +4,7 @@ person: "Nicholas Griffin"
 position: "Graduate Student"
 image: "/assets/nicholas-griffin.jpg"
 github: nrgriffin
-googlescholar: https://scholar.google.com/citations?view_op=list_works&hl=en&user=QBwyHvUAAAAJ
+googlescholar: QBwyHvUAAAAJ
 researchgate: 
 website: https://liberalarts.utexas.edu/psychology/graduate/profile.php?id=nrg672
 orcid: 

@@ -28,4 +28,4 @@ To link to a PDF of your poster, follow this guide:
 
 Add in a list of your publications. If none, then take out this section.
 
-NOTE: Once you build the site on your CMD, run it on your local host to make sure it looks like the way you want it to. Then, commit the changes to GitHub!
+NOTE: Only add in your username in each section (except for LinkedIn). Once you build the site on your CMD, run it on your local host to make sure it looks like the way you want it to. Then, commit the changes to GitHub!
