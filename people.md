@@ -7,26 +7,10 @@ permalink: /people/
 <center><strong><font size="15"> Meet our team! </font></strong></center>
 
 ![Team picture](/assets/team.jpg)
-____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-<!--
+<!-- This line of code below adds in a break -->
 
-<center> Learn more about the team by clicking below! </center>
-
-<center><a href="/kimray/"> Kimberly Ray </a> </center>
-
-<center><a href="/derekpisner/"> Derek Pisner </a> </center>
-
-<center><a href="/esthergoeke/"> Esther Goeke </a> </center>
-
-<center><a href="/guadalupegonzalez/"> Guadalupe Gonzalez </a> </center>
-
-<center><a href="/meganmcmahon/"> Megan McMahon </a> </center>
-
-<center><a href="/nicholasgriffin/"> Nicholas Griffin </a> </center>
-
-<center><a href="/alexalario/"> Alex Alario </a> </center>
--->
+<hr>
 
 <div>
 
@@ -146,3 +130,38 @@ ________________________________________________________________________________
 <a href="https://github.com/alexalario" target="_blank"><i class="fab fa-github-square fa-lg"></i></a>
 
 </div>
+
+<p style="clear: both;">
+
+<hr>
+
+<center> <strong> Undergraduate Research Assistants </strong> </center>
+
+<center> Harshini Addanki </center>
+<center> Sahar Ali </center>
+<center> Bersabeh Asfaw </center>
+<center> Christie Byrne </center>
+<center> Annmarie Calderon </center>
+<center> Pauline Do </center>
+<center> Sebastian Enrico </center>
+<center> Eric Fricke </center>
+<center> Katherine Glogowski </center>
+<center> Apurvu Gunturu </center>
+<center> Marissa Hansen </center>
+<center> Michelle Hernandez </center>
+<center> Haana Janmohamed </center>
+<center> Atharva Kulkarni </center>
+<center> Simren Lakhotia </center>
+<center> Italia Lopez </center>
+<center> Yoshita Malneedi </center>
+<center> David Marquez </center>
+<center> Anjali Raghavan </center>
+<center> Aayushi Sangani </center>
+<center> Corey Snyder </center>
+<center> Michelle Song </center>
+<center> Patrick Switala </center>
+<center> Allie Vasak </center>
+<center> Samuel Weyser </center>
+<center> Fabian Wurzinger </center>
+<center> Jiayue Zhang</center>
+	
