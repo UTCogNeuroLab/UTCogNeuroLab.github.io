@@ -82,7 +82,7 @@ permalink: /people/
 
 <div>
 
-<img src="/assets/GuadalupeGonzalez.jpeg" hspace="10" style="width:150px; height:200px; float:left; margin: 10px;">
+<img src="/assets/LupitaGlez.jpg" hspace="10" style="width:150px; height:200px; float:left; margin: 10px;">
 <h3 style="margin-bottom:0;"> <a href="/people/guadalupegonzalez/"> Guadalupe Gonzalez</a></h3>
 <h5 style="margin-top:0; margin-bottom:0;"> Graduate Student </h5>
 <a href="https://www.researchgate.net/profile/Guadalupe_Gonzalez25" target="_blank"><i class="ai ai-researchgate-square ai-lg"></i></a>
