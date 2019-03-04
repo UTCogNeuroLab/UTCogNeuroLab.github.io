@@ -2,7 +2,7 @@
 layout: team-member
 person: "Guadalupe Gonzalez"
 position: "Graduate Student"
-image: "/assets/LupitaGlez.jpeg"
+image: "/assets/Lupita-Glez.jpg"
 github: 
 googlescholar: wMbLAigAAAAJ&hl=en&citsig=AMD79opA7ynYpznqTIUP7N7hn0SzileNpw
 researchgate: Guadalupe_Gonzalez25
