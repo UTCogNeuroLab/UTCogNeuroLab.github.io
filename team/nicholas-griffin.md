@@ -30,7 +30,7 @@ Nicholas Griffin is a fifth year graduate student working with Dr. David Schnyer
 
 #### Publications:
 
-Wickwire, E. M., Albrecht, J. S., Griffin, N. R., Schnyer, D. M., Yue, J. K., Markowitz, A. J., Okonkwo, D. O., Valadka, A. B., Badjatia, N., Manley, G. T. (2019). Sleep disturbances preceed depressive symptomotology following traumatic brain injury. Current Neurobiology, 10(2), 49-55.
+Wickwire, E. M., Albrecht, J. S., Griffin, N. R., Schnyer, D. M., Yue, J. K., Markowitz, A. J., Okonkwo, D. O., Valadka, A. B., Badjatia, N., Manley, G. T. (2019). Sleep disturbances precede depressive symptomatology following traumatic brain injury. Current Neurobiology, 10(2), 49-55.
 
 Griffin, N. R., Fleck, C. R., Uitvlugt, M. G., Ravizza, S. M., & Fenn, K. M. (2017). The tweeter matters: Factors that affect false memory from Twitter. Computers in Human Behavior, 77, 63-68.  
 
