@@ -2,6 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
+weight: 3
 ---
 #### Our research is focused on the Cognitive Neuroscience of mental processes. Studies are approached using a broad range of methodological tools – human lesions, structural and functional MRI, and electrophysiology (MEG/EEG). 
 
