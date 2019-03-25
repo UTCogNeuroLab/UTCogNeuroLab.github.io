@@ -1,6 +1,6 @@
 ---
 layout: scripts
-title: Lab Updates
+title: Lab Updates & Opportunities
 permalink: /labupdates/
 weight: 4
 ---
