@@ -1,8 +1,6 @@
 ---
 layout: page
-title: Opportunities
 permalink: /opportunities/
-weight: 7
 ---
-
+**THIS PAGE IS NO LONGER IN USE**
 |Dr. Schyner will be recruiting one or more graduate students soon.|

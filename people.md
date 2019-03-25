@@ -2,7 +2,7 @@
 layout: page
 title: People
 permalink: /people/
-weight: 2
+weight: 3
 ---
 
 <center><strong><font size="15"> Meet our team! </font></strong></center>

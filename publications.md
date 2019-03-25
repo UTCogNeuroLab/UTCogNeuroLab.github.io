@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-weight: 4
+weight: 5
 ---
 # __Publications__
 
