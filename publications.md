@@ -8,7 +8,7 @@ weight: 5
 
 |**2019**|
 |Gonzalez, G. D. S., & Schnyer, D. M. (2019). Attention and Working Memory Biases to Black and Asian Faces During Intergroup Contexts. Frontiers in Psychology, 9, 385. http://doi.org/10.3389/fpsyg.2018.02743.|
-|Mathews, M.D., & Schnyer, D.M. (Eds). Human Performance Optimization: The Science and Ethics of Enhancing Human Capabilities. (2019).|
+|Mathews, M.D., & Schnyer, D.M. (Eds). Human Performance Optimization: The Science and Ethics of Enhancing Human Capabilities. (2019). Oxford University Press|
 |Wickwire, E. M., Albrecht, J. S., Griffin, N. R., Schnyer, D. M., Yue, J. K., Markowitz, A. J., Okonkwo, D. O., Valadka, A. B., Badjatia, N., Manley, G. T. (2019). Sleep disturbances precede depressive symptomatology following traumatic brain injury. Current Neurobiology, 10(2), 49-55.|
 |Yue, J.K, Cnossen, M.C., Winkler, E.A., Deng, H., Phelps, R.R.L., Coss, N., Sharma, S., Robinson, C.K., Suen, C.G., Vassar, M.J., Schnyer, D.M., Puccio, A.M., Gardner, R.C., Yuh, E.L., Mukherjee, P.,   Valadka, A.B., Okonkwo, D.O., Lingsma, H.F. and Manley, G.T. (Accepted). Preinjury comorbidities are associated with functional impairment and postconcussive symptoms at 3- and 6-months after mild traumatic brain injury: A TRACK-TBI study. Frontiers Neurology.|
 
