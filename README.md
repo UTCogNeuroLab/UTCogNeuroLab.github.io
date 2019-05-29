@@ -1,207 +1,54 @@
-# minima
+# About Our Lab
 
-*Minima is a one-size-fits-all Jekyll theme for writers*. It's Jekyll's default (and first) theme. It's what you get when you run `jekyll new`.
+The UT Cognitive Neuroscience Lab (UT PsyBrain) is a lab at The University of Texas at Austin. Our research is focused on the Cognitive Neuroscience of mental processes. Studies are approached using a broad range of methodological tools – human lesions, structural and functional MRI, and electrophysiology (MEG/EEG). We examine the cognitive and neural systems that support memory and attention control in young and old healthy individuals as well as persons suffering from mental illness and traumatic brain injury.
 
-[Theme preview](https://jekyll.github.io/minima/)
+# About Our Website
 
-![minima theme preview](/screenshot.png)
+## Jekyll Installation
 
-## Installation
+For more information on how to set up Jekyll on your computer, take a look at these short videos. They're easy to follow and will have Jekyll set up on your computer in no time.
 
-Add this line to your Jekyll site's Gemfile:
+[Mac Installation](https://www.youtube.com/watch?v=WhrU9m82Wm8&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=2)
 
-```ruby
-gem "minima"
-```
+[Windows Installation](https://www.youtube.com/watch?v=LfP7Y9Ja6Qc&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=3)
 
-And add this line to your Jekyll site:
+For more information on Jekyll, check out their [documentation](https://jekyllrb.com/). For help on using GitHub, click [here](https://help.github.com/en).
 
-```yaml
-theme: minima
-```
+## Creating Your Own Member Page
 
-And then execute:
+We've created a couple of templates for you to easily set up your own individual "About Me" pages. If you have any questions or are running into issues, please contact Haana.
 
-    $ bundle
+### Member Page Set-Up
 
+To create your own member page, follow the steps below.
+  1. Go to the Team folder.
+  2. Open template.md and copy all the contents inside the file.
+  3. Go back to the Team folder.
+  4. Create a new Markdown file in the format firstname-lastname.md
+  5. Paste what you copied from the template file into your own file that you just created.
+  6. Fill out all necessary fields.
+And you have your own individual page set up!
 
-## Contents At-A-Glance
+### Team Page Setup
 
-Minima has been scaffolded by the `jekyll new-theme` command and therefore has all the necessary files and directories to have a new Jekyll site up and running with zero-configuration.
+Making a change to your own member page - such as changing the picture or social media links - will not automatically make a change to the people.md (the Team page) page. If you would like to change a link or picture, follow the steps below. These are also instructions provided on people.md.
+  1. Open people.md.
+  2. If you are a new member adding your profile to the Team page, copy the code provided at the beginning of people.md and add it to the end of the file (but before the RA section). Fill out the necessary fields.
+  3. If you are making an edit to your profile, simply scroll down to your section (each section is marked by a name) and change the fields necessay (aka profile pic, social media icon, etc.).
 
-### Layouts
+## Adding Pictures or Posters
 
-Refers to files within the `_layouts` directory, that define the markup for your theme.
+To add any pictures or posters (PDFs), upload them to the Assets folder. This is the only way a picture/poster will show up on the website. If needed, you may create a subfolder within Assets.
 
-  - `default.html` &mdash; The base layout that lays the foundation for subsequent layouts. The derived layouts inject their contents into this file at the line that says ` {{ content }} ` and are linked to this file via [FrontMatter](https://jekyllrb.com/docs/frontmatter/) declaration `layout: default`.
-  - `home.html` &mdash; The layout for your landing-page / home-page / index-page. [[More Info.](#home-layout)]
-  - `page.html` &mdash; The layout for your documents that contain FrontMatter, but are not posts.
-  - `post.html` &mdash; The layout for your posts.
+## Adding a Lab Update
 
-### Includes
+A cool feature of our site is the ability to add your own updates - like a mini blog! All posts that are published will be in the _posts folder. If you would like to create a draft, put your file in the _drafts folder. For more information on how to create a blog post, go to the _drafts folder and click on template.md. Further instructions are available in the template file.
 
-Refers to snippets of code within the `_includes` directory that can be inserted in multiple layouts (and another include-file as well) within the same theme-gem.
+# More Information About The Site
 
-  - `disqus_comments.html` &mdash; Code to markup disqus comment box.
-  - `footer.html` &mdash; Defines the site's footer section.
-  - `google-analytics.html` &mdash; Inserts Google Analytics module (active only in production environment).
-  - `head.html` &mdash; Code-block that defines the `<head></head>` in *default* layout.
-  - `header.html` &mdash; Defines the site's main header section. By default, pages with a defined `title` attribute will have links displayed here.
+## Credits
 
-### Sass
-
-Refers to `.scss` files within the `_sass` directory that define the theme's styles.
-
-  - `minima.scss` &mdash; The core file imported by preprocessed `main.scss`, it defines the variable defaults for the theme and also further imports sass partials to supplement itself.
-  - `minima/_base.scss` &mdash; Resets and defines base styles for various HTML elements.
-  - `minima/_layout.scss` &mdash; Defines the visual style for various layouts.
-  - `minima/_syntax-highlighting.scss` &mdash; Defines the styles for syntax-highlighting.
-
-### Assets
-
-Refers to various asset files within the `assets` directory.
-Contains the `main.scss` that imports sass files from within the `_sass` directory. This `main.scss` is what gets processed into the theme's main stylesheet `main.css` called by `_layouts/default.html` via `_includes/head.html`.
-
-This directory can include sub-directories to manage assets of similar type, and will be copied over as is, to the final transformed site directory.
-
-### Plugins
-
-Minima comes with [`jekyll-seo-tag`](https://github.com/jekyll/jekyll-seo-tag) plugin preinstalled to make sure your website gets the most useful meta tags. See [usage](https://github.com/jekyll/jekyll-seo-tag#usage) to know how to set it up.
-
-## Usage
-
-### Home Layout
-
-`home.html` is a flexible HTML layout for the site's landing-page / home-page / index-page. <br/>
-
-#### Main Heading and Content-injection
-
-From Minima v2.2 onwards, the *home* layout will inject all content from your `index.md` / `index.html` **before** the **`Posts`** heading. This will allow you to include non-posts related content to be published on the landing page under a dedicated heading. *We recommended that you title this section with a Heading2 (`##`)*.
-
-Usually the `site.title` itself would suffice as the implicit 'main-title' for a landing-page. But, if your landing-page would like a heading to be explicitly displayed, then simply define a `title` variable in the document's front matter and it will be rendered with an `<h1>` tag.
-
-#### Post Listing
-
-This section is optional from Minima v2.2 onwards.<br/>
-It will be automatically included only when your site contains one or more valid posts or drafts (if the site is configured to `show_drafts`).
-
-The title for this section is `Posts` by default and rendered with an `<h2>` tag. You can customize this heading by defining a `list_title` variable in the document's front matter.
-
---
-
-### Customization
-
-To override the default structure and style of minima, simply create the concerned directory at the root of your site, copy the file you wish to customize to that directory, and then edit the file.
-e.g., to override the [`_includes/head.html `](_includes/head.html) file to specify a custom style path, create an `_includes` directory, copy `_includes/head.html` from minima gem folder to `<yoursite>/_includes` and start editing that file.
-
-The site's default CSS has now moved to a new place within the gem itself, [`assets/main.scss`](assets/main.scss). To **override the default CSS**, the file has to exist at your site source. Do either of the following:
-- Create a new instance of `main.scss` at site source.
-  - Create a new file `main.scss` at `<your-site>/assets/`
-  - Add the frontmatter dashes, and
-  - Add `@import "minima";`, to `<your-site>/assets/main.scss`
-  - Add your custom CSS.
-- Download the file from this repo
-  - Create  a new file `main.scss` at `<your-site>/assets/`
-  - Copy the contents at [assets/main.scss](assets/main.scss) onto the `main.scss` you just created, and edit away!
-- Copy directly from Minima 2.0 gem
-  - Go to your local minima gem installation directory ( run `bundle show minima` to get the path to it ).
-  - Copy the `assets/` folder from there into the root of `<your-site>`
-  - Change whatever values you want, inside `<your-site>/assets/main.scss`
-
---
-
-### Customize navigation links
-
-This allows you to set which pages you want to appear in the navigation area and configure order of the links.
-
-For instance, to only link to the `about` and the `portfolio` page, add the following to you `_config.yml`:
-
-```yaml
-header_pages:
-  - about.md
-  - portfolio.md
-```
-
---
-
-### Change default date format
-
-You can change the default date format by specifying `site.minima.date_format`
-in `_config.yml`.
-
-```
-# Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
-```
-
---
-
-### Enabling comments (via Disqus)
-
-Optionally, if you have a Disqus account, you can tell Jekyll to use it to show a comments section below each post.
-
-To enable it, add the following lines to your Jekyll site:
-
-```yaml
-  disqus:
-    shortname: my_disqus_shortname
-```
-
-You can find out more about Disqus' shortnames [here](https://help.disqus.com/customer/portal/articles/466208).
-
-Comments are enabled by default and will only appear in production, i.e., `JEKYLL_ENV=production`
-
-If you don't want to display comments for a particular post you can disable them by adding `comments: false` to that post's YAML Front Matter.
-
---
-
-### Social networks
-
-You can add links to the accounts you have on other sites, with respective icon, by adding one or more of the following options in your config:
-
-```yaml
-twitter_username: jekyllrb
-github_username:  jekyll
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-rss: rss
-
-mastodon:
- - username: jekyll
-   instance: example.com
- - username: jekyll2
-   instance: example.com
-```
-
---
-
-### Enabling Google Analytics
-
-To enable Google Analytics, add the following lines to your Jekyll site:
-
-```yaml
-  google_analytics: UA-NNNNNNNN-N
-```
-
-Google Analytics will only appear in production, i.e., `JEKYLL_ENV=production`
-
---
-
-### Enabling Excerpts on the Home Page
-
-To display post-excerpts on the Home Page, simply add the following to your `_config.yml`:
-
-```yaml
-show_excerpts: true
-```
+This site was created by Haana Janmohamed, an undergraduate student at the University of Texas at Austin. She created the site using the Jekyll Minima template. She would like to give credit to the [NBC Lab](https://nbclab.github.io/) and [Drummond Lab](http://drummondlab.org/) for their help and inspiration in the creation of this site. This website adapts and adopts some code from their site ([NBC Lab GitHub](https://github.com/NBCLab/NBCLab.github.io) and [Drummond Lab GitHub](https://github.com/drummondlab/drummondlab.github.io)) To view our code, click [here](https://github.com/UTCogNeuroLab/UTCogNeuroLab.github.io).
 
 ## Contributing
 
