@@ -4,6 +4,8 @@ The UT Cognitive Neuroscience Lab (UT PsyBrain) is a lab at The University of Te
 
 # About Our Website
 
+**All commits to the website should be made to the master branch.**
+
 ## Jekyll Installation
 
 For more information on how to set up Jekyll on your computer, take a look at these short videos. They're easy to follow and will have Jekyll set up on your computer in no time.
@@ -42,7 +44,20 @@ To add any pictures or posters (PDFs), upload them to the Assets folder. This is
 
 ## Adding a Lab Update
 
-A cool feature of our site is the ability to add your own updates - like a mini blog! All posts that are published will be in the _posts folder. If you would like to create a draft, put your file in the _drafts folder. For more information on how to create a blog post, go to the _drafts folder and click on template.md. Further instructions are available in the template file.
+A cool feature of our site is the ability to add your own updates - like a mini blog! All posts that are published will be in the _posts folder. If you would like to create a draft, put your file in the _drafts folder. Follow the instructions below to create your post. The same instructions are available in the template.md file in the _drafts folder.
+  1. Go the _drafts folder.
+  2. Open template.md and copy all the contents inside the file.
+  3. Go back to the _drafts folder.
+  4. Create a new Markdown file in the format "YYYY-MM-DD-name-of-post.md". 
+  5. Paste what you copied from the template file into your own file that you just created.
+  3. Make sure you change the following variables (found at the top of the file):
+    - change the date/time (date variable) 
+    - change the title of the post (title variable)
+    - change the catergory (category variable)
+    - do **NOT** change the **layout variable**
+  4. Once you have finished writing out your post, move your Markdown file to the _posts folder where it will then be automatically published to the site. 
+
+For questions on how to format the post using MarkDown, check out the "Welcome to Jekyll" Markdown file (available in _drafts) or check out syntax online.
 
 # More Information About The Site
 
