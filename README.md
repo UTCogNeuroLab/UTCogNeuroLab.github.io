@@ -51,10 +51,10 @@ A cool feature of our site is the ability to add your own updates - like a mini 
   4. Create a new Markdown file in the format "YYYY-MM-DD-name-of-post.md". 
   5. Paste what you copied from the template file into your own file that you just created.
   3. Make sure you change the following variables (found at the top of the file):
-    * change the date/time (date variable) 
-    * change the title of the post (title variable)
-    * change the catergory (category variable)
-    * do **NOT** change the **layout variable**
+      - change the date/time (date variable) 
+      - change the title of the post (title variable)
+      - change the catergory (category variable)
+      - do **NOT** change the **layout variable**
   4. Once you have finished writing out your post, move your Markdown file to the _posts folder where it will then be automatically published to the site. 
 
 For questions on how to format the post using MarkDown, check out the "Welcome to Jekyll" Markdown file (available in _drafts) or check out syntax online.
