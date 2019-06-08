@@ -22,7 +22,7 @@ Her research interests involve using functional magnetic resonance imaging (fMRI
 
 [OHBM 2018: Relationships between Depression Vulnerability and Brain Networks: A multimodal EEG fMRI study](/assets/posters/OHBM_Poster_KLR.pdf)
 
-[OHBM 2019: Corresponding Relationships between Resting State EEG Power and Connectivity] (/assets/posters/OHBM2019_KLRay.pdf)
+[OHBM 2019: Corresponding Relationships between Resting State EEG Power and Connectivity](/assets/posters/OHBM2019_KLRay.pdf)
 
 #### Publications (Selected):
 
