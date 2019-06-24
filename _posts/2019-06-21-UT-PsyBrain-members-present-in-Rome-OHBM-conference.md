@@ -13,6 +13,8 @@ This summer, Dr. Schnyer and 3 lab members traveled to Rome, Italy to attend and
 
 [OHBM 2019: Age-Related Differences in Brain Functional Connectivity and Associations with Sleep-Activity Cycles](/assets/posters/McMahon OHBM Poster.pdf)
 
+[OHBM 2019: Measuring Negative Attention Bias in Depression Using Differential Brain Decoding](/assets/posters/OHBM Poster 2019 Derek.pdf)
+
 #### Pictures from the Conference:
 
 <center><img src="/assets/conferencepics/OHBM/TeamPic2019.jpg" style="width: 70%; height: 70%"></center>
