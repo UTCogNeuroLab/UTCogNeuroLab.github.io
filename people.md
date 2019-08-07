@@ -144,19 +144,6 @@ weight: 3
 
 <p style="clear: both;">
 
-<!-- Alex Alario -->
-
-<div>
-
-<img src="/assets/placeholder.jpg" hspace="10" style="width:150px; height:200px; float:left; margin: 10px;">
-<h3 style="margin-bottom:0;"> <a href="/people/alexalario/"> Alex Alario</a></h3>
-<h5 style="margin-top:0; margin-bottom:0;"> Senior Undergraduate Student </h5>
-<a href="https://github.com/alexalario" target="_blank"><i class="fab fa-github-square fa-lg"></i></a>
-
-</div>
-
-<p style="clear: both;">
-
 <hr>
 
 <!-- List of RAs -->
