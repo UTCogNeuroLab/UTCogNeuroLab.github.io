@@ -2,7 +2,7 @@
 layout: team-member
 person: "Robin McGee"
 position: "Chief Study Coordinator, TRACK-TBI"
-image: "/assets/Robin McGee.jpg"
+image: "/assets/robin-mcgee.jpg"
 github: 
 googlescholar: 
 researchgate: 
