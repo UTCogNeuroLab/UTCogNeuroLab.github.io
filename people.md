@@ -64,15 +64,14 @@ weight: 3
 
 <p style="clear: both;">
 
-<!-- Esther Goeke -->
+<!-- Robin McGee -->
 
 <div>
 
-<img src="/assets/esther-goeke.jpg" hspace="10" style="width:150px; height:200px; float:left; margin: 10px;">
-<h3 style="margin-bottom:0; "> <a href="/people/esthergoeke/"> Esther Goeke </a></h3>
+<img src="/assets/Robin McGee.jpg" hspace="10" style="width:150px; height:200px; float:left; margin: 10px;">
+<h3 style="margin-bottom:0; "> <a href="/people/robinmcgee/"> Robin McGee </a></h3>
 <h5 style="margin-top:0; margin-bottom:0"> Chief Study Coordinator</h5>
 <h5 style="margin-top:0; margin-bottom:0;"> TRACK-TBI</h5>
-<a href="https://github.com/egoeke" target="_blank"><i class="fab fa-github-square fa-lg"></i></a>
 
 
 </div>
