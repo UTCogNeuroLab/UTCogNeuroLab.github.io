@@ -177,4 +177,94 @@ weight: 3
 <center> Samuel Weyser </center>
 <center> Fabian Wurzinger </center>
 <center> Jiayue Zhang</center>
+
+<hr>
 	
+<!-- List of Lab Alumni -->
+
+<center> <strong> Lab Alumni </strong> </center>
+<center><font size = "2"> Next career step is noted under each alum </font></center>
+<br>
+
+<center>Esther Goeke</center>
+<center><font size = "2">Graduate Student in Social Work at Rutgers University</font></center>
+<br>
+
+<center>Sarah Lewis</center>
+<center><font size = "2">Masters in Social Work program at UT Dallas</font></center>
+<br>
+
+<center>Alex Alario</center>
+<center><font size = "2">Neuroscience PhD student at the University of Iowa</font></center>
+<br>
+
+<center>Tolan Nguyen</center>
+<center><font size = "2">Masters Program in Data Science, UNC</font></center>
+<br>
+
+<center>Ebanie Griffith</center>
+<center><font size = "2">UT Southwestern</font></center>
+<br>
+
+<center>Jiazhou Chen</center>
+<center><font size = "2">Neuroscience & Psychopathology Lab, University of Pittsburgh Medical Center</font></center>
+<br>
+
+<center>Molly Farrell</center>
+<center><font size = "2">Texas College of Osteopathic Medicine</font></center>
+<br>
+
+<center>Bianca Chavez</center>
+<br>
+
+<center>Bridget Byrd</center>
+<br>
+
+<center>Stephanie Sherman</center>
+<center><font size = "2">Postdoctoral Fellow, Boston College</font></center>
+<br>
+
+<center>Katy Seloff</center> 
+<br>
+
+<center>Logan Trujillo</center>
+<center><font size = "2">Assistant Professor at Texas State University in San Marcos, Texas</font></center>
+<br>
+
+<center>Sadie Witkowski</center>
+<center><font size = "2">Graduate Student in Cognitive Neuroscience, Northwestern University</font></center>
+<br>
+
+<center>Emily Knight</center>
+<center><font size = "2">Research Specialist, NeuroTexas Institute at St. David's HealthCare</font></center>
+<br>
+
+<center>Jennifer Pacheco</center>
+<center><font size = "2">Scientific Program Manager National Institutes of Health, Bethesda, MD</font></center>
+<br>
+
+<center>Victoria Williams</center>
+<center><font size = "2">PostDoctoral Fellow, Boston VA Healthcare System</font></center>
+<br>
+
+<center>Christopher Gonzolez</center>
+<center><font size = "2">Graduate Student in Neuroscience, UCSD</font></center>
+<br>
+
+<center>Kayli Kallina</center>
+<center><font size = "2">Research Technician Laura Colgin Lab, UT Austin</font></center>
+<br>
+
+<center>Haley Bednarz</center>
+<center><font size = "2">Graduate Student in Clinical Neuropsychology, University of Alabama, Birmingham</font></center>
+<br>
+
+<center>Evan Alvarez-Keesee</center>
+<br>
+
+<center>Lyndsey Chong</center>
+<br>
+
+<center>Jasmine McNeely</center>
+
+
