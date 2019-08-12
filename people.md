@@ -183,7 +183,7 @@ weight: 3
 <!-- List of Lab Alumni -->
 
 <center> <strong> Lab Alumni </strong> </center>
-<center><font size = "2"> Next career step is noted under each alum </font></center>
+<center><font size = "2"><i>Next career step is noted under each alum</i></font></center>
 <br>
 
 <center>Esther Goeke</center>
