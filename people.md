@@ -7,7 +7,7 @@ weight: 3
 
 <center><strong><font size="15"> Meet our team! </font></strong></center>
 
-![Team picture](/assets/team2019.jpg)
+![Team picture](/assets/team2019.png)
 <hr>
 
 <!-- A template to either change your current profile on the People page OR to add in a new member. Simply copy and paste the lines of code below OR add in what you need. If you don't need some lines of code, remove them (aka social media links). Do not change the CSS.
