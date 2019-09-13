@@ -144,6 +144,18 @@ weight: 3
 
 <p style="clear: both;">
 
+<!-- Jackie Harle -->
+
+<div>
+
+<img src="/assets/JackieHarle.jpg" hspace="10" style="width:150px; height:200px; float:left; margin: 10px;">
+<h3 style="margin-bottom:0;"> <a href="/people/jackieharle/"> Jacqueline Harle </a></h3>
+<h5 style="margin-top:0; margin-bottom:0;"> Research Coordinator Assistant </h5>
+
+</div>
+
+<p style="clear: both;">
+
 <hr>
 
 <!-- List of RAs -->
