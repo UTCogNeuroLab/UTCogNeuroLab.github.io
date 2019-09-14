@@ -2,7 +2,7 @@
 layout: team-member
 person: "Jacqueline Harle"
 position: "Research Coordinator Assistant"
-image: "/assets/JackieHarle.jpg"
+image: "/assets/JackieHarle2.jpg"
 github: 
 googlescholar: 
 researchgate: 
