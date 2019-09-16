@@ -167,12 +167,12 @@ weight: 3
 <center> Bersabeh Asfaw </center>
 <center> Christie Byrne </center>
 <center> Annmarie Calderon </center>
-<center> Pauline Do </center>
 <center> Sebastian Enrico </center>
 <center> Eric Fricke </center>
 <center> Katherine Glogowski </center>
 <center> Apurvu Gunturu </center>
 <center> Marissa Hansen </center>
+<center> Chand Hashim </center>
 <center> Michelle Hernandez </center>
 <center> Haana Janmohamed </center>
 <center> Atharva Kulkarni </center>
@@ -180,15 +180,13 @@ weight: 3
 <center> Italia Lopez </center>
 <center> Yoshita Malneedi </center>
 <center> David Marquez </center>
+<center> Bill Nyaoga </center>
 <center> Anjali Raghavan </center>
-<center> Aayushi Sangani </center>
 <center> Corey Snyder </center>
-<center> Michelle Song </center>
 <center> Patrick Switala </center>
 <center> Allie Vasak </center>
 <center> Samuel Weyser </center>
 <center> Fabian Wurzinger </center>
-<center> Jiayue Zhang</center>
 
 <hr>
 	
@@ -278,5 +276,10 @@ weight: 3
 <br>
 
 <center>Jasmine McNeely</center>
+<br>
 
+<center> Jiayue Zhang</center>
+<br>
 
+<center> Pauline Do </center>
+<br>
