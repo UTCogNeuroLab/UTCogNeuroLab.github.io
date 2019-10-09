@@ -18,7 +18,7 @@ The purpose of the study is to investigate the validity of wearable and home hea
 ### [I'm interested!](https://redcap.prc.utexas.edu/redcap/surveys/?s=CPRNKN7TW9) <br> <br> <br>
 
 
-### Sleep, Cognition, and Aging
+### Aging, Sleep, and Cognition
 
 The purpose of this project is to examine the relationships between aging, sleep-wake cycles, and cognition. Each participant will wear an actigraph, or wristwatch-like device, that will measure sleep-wake cycles and daily activity. This study involves a commitment of 10-14 days total, with 2 in-lab sessions and 10 days of actigraph recording as participants go about their daily life. One in-lab session is completed before participants begin wearing the actigraph wristwatch (2 hours). One additional session is completed within two weeks after the first session (3-4 hours).
 
