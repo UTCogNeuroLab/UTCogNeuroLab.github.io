@@ -11,7 +11,7 @@ Please see below for more information about our current studies.
 
 **Participants can click the "I'm interested" links below to be redirected to the eligibility survey.** <br> <br>
 
-### Now Recruiting Healthy Adults - Facial Perception and Eye Tracking Study
+### Now Recruiting Healthy Adults - Eye Tracking Study
 
 In our daily lives we interact with many different people. Different cognitive factors can affect our perceptions of the people we encounter on a daily basis. We want to know more about the cognitive factors that influence our perception of others. <br>
 
