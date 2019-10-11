@@ -11,9 +11,20 @@ Please see below for more information about our current studies.
 
 **Participants can click the "I'm interested" links below to be redirected to the eligibility survey.** <br> <br>
 
+## Now Recruiting Healthy Adults - Facial Perception and Eye Tracking Study
+
+In our daily lives we interact with many different people. Different cognitive factors can affect our perceptions of the people we encounter on a daily basis. We want to know more about the cognitive factors that influence our perception of others. <br>
+
+We are currently seeking healthy adults to participate in an eye tracking study on perceiving people. Participants will be paid $15 for a session (approximately 1 hour).
+
+
+### [I'm interested!](mailto:utperceivingpeople@gmail.com?subject=[GitHub]%20Interested%20In%20Eye%20Tracking%20Study) <br> <br> <br>
+
 ### Now Recruiting Ages 18-30 - Sleep and Activity Monitoring through Wearable Assessment
 
-The purpose of the study is to investigate the validity of wearable and home health electronics for measuring rest-activity cycles and sleep composition. We are currently seeking healthy adults ages 18-30 who are willing to wear 2 activity monitoring devices (eg., Fitbit) for 2 weeks. Participants will be compensated $50 and will receive a personalized sleep-activity report. <br>
+The purpose of the study is to investigate the validity of wearable and home health electronics for measuring rest-activity cycles and sleep composition. <br>
+
+We are currently seeking healthy adults ages 18-30 who are willing to wear 2 activity monitoring devices (eg., Fitbit) for 2 weeks. Participants will be compensated $50 and will receive a personalized sleep-activity report. <br>
 
 ### [I'm interested!](https://redcap.prc.utexas.edu/redcap/surveys/?s=CPRNKN7TW9) <br> <br> <br>
 
