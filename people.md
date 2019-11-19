@@ -54,7 +54,7 @@ weight: 3
 
 <img src="/assets/KLR-labwebsitephoto.jpg" hspace="10" style="width:150px; height:200px; float:left; margin: 10px; margin-right: 1%; margin-bottom: 0.5em;">
 <h3 style="margin-bottom:0;"> <a href="/people/kimray/"> Kimberly Ray </a></h3>
-<h5 style="margin-top:0; margin-bottom:0;"> Research Scientist </h5>
+<h5 style="margin-top:0; margin-bottom:0;"> Research Assistant Professor </h5>
 <a href="https://orcid.org/0000-0003-1302-2834" target="_blank"><i class="ai ai-orcid-square ai-lg"></i></a>
 <a href="http://scholar.google.com/citations?user=Qt6OuAkAAAAJ" target="_blank"><i class="ai ai-google-scholar-square ai-lg"></i></a>
 <a href="https://www.researchgate.net/profile/Kimberly_Ray" target="_blank"><i class="ai ai-researchgate-square ai-lg"></i></a>
