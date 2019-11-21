@@ -180,6 +180,7 @@ weight: 3
 <center> Italia Lopez </center>
 <center> Yoshita Malneedi </center>
 <center> David Marquez </center>
+<center> Isabella McConley </center>
 <center> Bill Nyaoga </center>
 <center> Anjali Raghavan </center>
 <center> Corey Snyder </center>
