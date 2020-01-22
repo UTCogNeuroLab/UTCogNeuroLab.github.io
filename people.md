@@ -182,6 +182,7 @@ weight: 3
 <center> David Marquez </center>
 <center> Isabella McConley </center>
 <center> Bill Nyaoga </center>
+<center> Annesley Pulse </center>
 <center> Anjali Raghavan </center>
 <center> Corey Snyder </center>
 <center> Patrick Switala </center>
