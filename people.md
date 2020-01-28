@@ -181,6 +181,7 @@ weight: 3
 <center> Yoshita Malneedi </center>
 <center> David Marquez </center>
 <center> Isabella McConley </center>
+<center> Cailyn Meyer </center>
 <center> Bill Nyaoga </center>
 <center> Annesley Pulse </center>
 <center> Anjali Raghavan </center>
