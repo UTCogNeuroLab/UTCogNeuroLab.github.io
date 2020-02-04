@@ -132,7 +132,7 @@ weight: 3
 
 <div>
 
-<img src="/assets/megan-mcmahon.jpg" hspace="10" style="width:150px; height:200px; float:left; margin: 10px;">
+<img src="/assets/megan-mcmahon.png" hspace="10" style="width:150px; height:200px; float:left; margin: 10px;">
 <h3 style="margin-bottom:0;"> <a href="/people/meganmcmahon/"> Megan McMahon</a></h3>
 <h5 style="margin-top:0; margin-bottom:0;"> Graduate Student </h5>
 <a href="https://www.researchgate.net/profile/Megan_Mcmahon4" target="_blank"><i class="ai ai-researchgate-square ai-lg"></i></a>
@@ -181,7 +181,9 @@ weight: 3
 <center> Yoshita Malneedi </center>
 <center> David Marquez </center>
 <center> Isabella McConley </center>
+<center> Cailyn Meyer </center>
 <center> Bill Nyaoga </center>
+<center> Annesley Pulse </center>
 <center> Anjali Raghavan </center>
 <center> Corey Snyder </center>
 <center> Patrick Switala </center>
