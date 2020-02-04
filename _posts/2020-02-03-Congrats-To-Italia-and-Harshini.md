@@ -10,6 +10,6 @@ Congratulations to our research assistants Italia Lopez-Valenzuela and Harshini 
 <center><img src="/assets/conferencepics/ARMADILLO/Italia_Armadillo_2019.jpg" style="width: 50%; height: 50%"></center>
 <center> Italia with her presentation </center>
 <br>
-<center><img src="/assets/conferencepics/ARMAdILLO/Harshini_Armadillo_2019.jpg" style="width: 50%; height: 50%"></center>
-<center> Megan with her presentation </center>
+<center><img src="/assets/conferencepics/ARMADILLO/Harshini_Armadillo_2019.jpg" style="width: 50%; height: 50%"></center>
+<center> Harshini with her presentation </center>
 <br>
