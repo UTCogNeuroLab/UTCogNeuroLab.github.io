@@ -26,15 +26,15 @@ Her research interests involve using functional magnetic resonance imaging (fMRI
 
 #### Publications (Selected):
 
-1)    Ray KL, Lesh T, Howell A, Salo T, Ragland JD, MacDonald A, Gold J, Silverstein S, Barch D, Carter CS. Functional Network Changes and Cognitive Control in Schizophrenia. NeuroImage: Clinical 15, 161-170, 2017.
+1) Ray KL, Ragland JD, MacDonald A, Gold J, Silverstein S, Barch D, Carter CS. Dynamic Reorganization of the Frontal Parietal network during Cognitive Control and Episodic Memory. Cognitive, Affective, & Behavioral Neuroscience, 2020.
 
-2)    Laird AR, Riedel MC, Okoe M, Jianu R, Ray KL, Eickhoff SB, Smith MS, Fox PT, Sutherland MT. Heterogeneous fractionation profiles of meta-analytic coactivation networks. NeuroImage, 149, 424-435, 2017.
+2)    Ray KL, Lesh T, Howell A, Salo T, Ragland JD, MacDonald A, Gold J, Silverstein S, Barch D, Carter CS. Functional Network Changes and Cognitive Control in Schizophrenia. NeuroImage: Clinical 15, 161-170, 2017.
 
-3)    Ray KL, Zald DH, Bludau S, Riedel MC, Bzdok D, Yanes J, Falcone KE, Amunts K, Fox PT, Eickhoff SB, Laird AR. Connectivity-based parcellation of the frontal pole. NeuroImage, 123, 200-211, 2015.
+3)    Laird AR, Riedel MC, Okoe M, Jianu R, Ray KL, Eickhoff SB, Smith MS, Fox PT, Sutherland MT. Heterogeneous fractionation profiles of meta-analytic coactivation networks. NeuroImage, 149, 424-435, 2017.
 
-4)    Riedel MC, Ray KL, Dick AS, Hernandez Z, Fox PM, Eickhoff SB, Fox PT, Laird AR. Intrinsic connectivity and behavioral parcellation of the human cerebellum through meta-analytic modeling. NeuroImage, 117, 327-342, 2015.
+4)    Ray KL, Zald DH, Bludau S, Riedel MC, Bzdok D, Yanes J, Falcone KE, Amunts K, Fox PT, Eickhoff SB, Laird AR. Connectivity-based parcellation of the frontal pole. NeuroImage, 123, 200-211, 2015.
 
-5)    Laird AR, Riedel MC, Sutherland MT, Eickhoff SB, Ray KL, Uecker AM, Fox PM, Turner JA, Fox PT. Neural architecture underlying classification of face perception paradigms. NeuroImage, 119, 70-80, 2015.
+5)    Riedel MC, Ray KL, Dick AS, Hernandez Z, Fox PM, Eickhoff SB, Fox PT, Laird AR. Intrinsic connectivity and behavioral parcellation of the human cerebellum through meta-analytic modeling. NeuroImage, 117, 327-342, 2015.
 
 6)    Sutherland MT, Ray KL, Riedel MC, Yanes JA, Stein EA, Laird AR. Neurofunctional impact of nicotinic acetylcholine receptor stimulation: An ALE meta-analysis of pharmacological neuroimaging studies. Biological Psychiatry, 78(10), 711-720, 2015.
 
