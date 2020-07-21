@@ -2,7 +2,7 @@
 layout: team-member
 person: "Megan McMahon"
 position: "Graduate Student"
-image: "/assets/McMahon,#32;Megan.png"
+image: "/assets/megan-mcmahon.jpg"
 github: mcmahonmc
 googlescholar: gQt3NCoAAAAJ
 researchgate: Megan_Mcmahon4
