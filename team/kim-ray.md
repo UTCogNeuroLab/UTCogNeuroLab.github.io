@@ -26,7 +26,7 @@ Her research interests involve using functional magnetic resonance imaging (fMRI
 
 #### Publications (Selected):
 
-1) Ray KL, Ragland JD, MacDonald A, Gold J, Silverstein S, Barch D, Carter CS. Dynamic reorganization of the frontal parietal network during cognitive control and episodic memory. Cognitive, Affective, & Behavioral Neuroscience, 2020.
+1) Ray KL, Ragland JD, MacDonald A, Gold J, Silverstein S, Barch D, Carter CS. Dynamic reorganization of the frontal parietal network during cognitive control and episodic memory. Cognitive, Affective, & Behavioral Neuroscience, 20(1), 76-90, 2020.
 
 2)    Ray KL, Lesh T, Howell A, Salo T, Ragland JD, MacDonald A, Gold J, Silverstein S, Barch D, Carter CS. Functional network changes and cognitive control in schizophrenia. NeuroImage: Clinical 15, 161-170, 2017.
 
