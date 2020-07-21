@@ -20,8 +20,8 @@ Megan is interested in identifying predictors of age-related cognitive changes. 
 
 #### Posters:
 
-[Dallas Aging and Cognition Conference 2019: Age-Related Changes in Aspects of the Sleep-Activity Cycle and Their Relationship to Associative Memory Performance](/assets/posters/DACC Poster McMahon.pdf)
+[Dallas Aging and Cognition Conference 2019: Age-Related Changes in Aspects of the Sleep-Activity Cycle and Their Relationship to Associative Memory Performance](/assets/posters/DACC#32;Poster#32;McMahon.pdf) <br>
 
-[OHBM 2019: Age-Related Differences in Brain Functional Connectivity and Associations with Sleep-Activity Cycles](/assets/posters/McMahon OHBM Poster.pdf)
+[OHBM 2019: Age-Related Differences in Brain Functional Connectivity and Associations with Sleep-Activity Cycles](/assets/posters/McMahon#32;OHBM#32;Poster.pdf) <br>
 
-[OHBM 2020: Rest-activity rhythm stability is associated with greater white matter integrity across the lifespan](/assets/posters/mcmahon_ohbm_2020.jpg)
+[OHBM 2020: Rest-activity rhythm stability is associated with greater white matter integrity across the lifespan](/assets/posters/mcmahon_ohbm_2020.jpg) <br>
