@@ -9,12 +9,15 @@ Due to COVID-19, the Organization for Human Brain Mapping meeting went completel
 We missed traveling to Montreal, but were still able to dive into the science.
 Kim, Derek, and Meg each presented their work that was carried out in collaboration with others at UT.
 
-#### Pictures from the Conference:
+#### Posters presented at the Conference:
 
 <center><img src="/assets/conferencepics/OHBM/OHBMposter_2020KLR.jpg" style="width: 50%; height: 50%"></center>
 <br>
-<center><img src="/assets/conferencepics/OHBM/mcmahon_ohbm_2020.jpg" style="width: 50%; height: 50%"></center>
-<center> Megan with her presentation </center>
 <br>
+
+<center><img src="/assets/conferencepics/OHBM/mcmahon_ohbm_2020.jpg" style="width: 50%; height: 50%"></center>
+<br>
+<br>
+
 <center><img src="/assets/conferencepics/OHBM/Derek2020.jpg" style="width: 50%; height: 50%"></center>
 <br>
