@@ -26,9 +26,9 @@ Her research interests involve using functional magnetic resonance imaging (fMRI
 
 #### Publications (Selected):
 
-1) Ray KL, Ragland JD, MacDonald A, Gold J, Silverstein S, Barch D, Carter CS. Dynamic Reorganization of the Frontal Parietal network during Cognitive Control and Episodic Memory. Cognitive, Affective, & Behavioral Neuroscience, 2020.
+1) Ray KL, Ragland JD, MacDonald A, Gold J, Silverstein S, Barch D, Carter CS. Dynamic reorganization of the frontal parietal network during cognitive control and episodic memory. Cognitive, Affective, & Behavioral Neuroscience, 2020.
 
-2)    Ray KL, Lesh T, Howell A, Salo T, Ragland JD, MacDonald A, Gold J, Silverstein S, Barch D, Carter CS. Functional Network Changes and Cognitive Control in Schizophrenia. NeuroImage: Clinical 15, 161-170, 2017.
+2)    Ray KL, Lesh T, Howell A, Salo T, Ragland JD, MacDonald A, Gold J, Silverstein S, Barch D, Carter CS. Functional network changes and cognitive control in schizophrenia. NeuroImage: Clinical 15, 161-170, 2017.
 
 3)    Laird AR, Riedel MC, Okoe M, Jianu R, Ray KL, Eickhoff SB, Smith MS, Fox PT, Sutherland MT. Heterogeneous fractionation profiles of meta-analytic coactivation networks. NeuroImage, 149, 424-435, 2017.
 
@@ -42,9 +42,11 @@ Her research interests involve using functional magnetic resonance imaging (fMRI
 
 8) Laird AR, Eickhoff SB, Rottschy C, Bzdok D, Ray KL, Fox PT. Networks of task co-activations. NeuroImage, 80, 505 – 514, 2013.
 
-9) Laird AR, Fox PM, Eickhoff SB, Turner JA, Ray KL, McKay DR, Glahn DC, Beckmann CF, Smith SM, Fox PT. Behavioral interpretations of intrinsic connectivity networks. J Cogn Neurosci, 23, 4022 – 4037 2011.
+9) Niendam TA, Laird AR, Ray KL, Dean YM, Glahn DC, Carter CS. Meta-analytic evidence for a superordinate cognitive control network subserving diverse executive functions.Cognitive, Affective, & Behavioral Neuroscience, 12(2), 241-268, 2012.
 
-10) Laird AR, Robinson JL, McMillan KM, Tordesillas-Gutierrez D, Moran ST, Gonzales Flagmeier SM, Ray KL, Franklin C, Glahn DC, Fox PT, Lancaster JL.  Comparison of the disparity between Talairach and MNI coordinates in functional neuroimaging data: Validation of the Lancaster transform. Neuroimage 51, 677 –683, 2010.
+
+10) Laird AR, Fox PM, Eickhoff SB, Turner JA, Ray KL, McKay DR, Glahn DC, Beckmann CF, Smith SM, Fox PT. Behavioral interpretations of intrinsic connectivity networks. J Cogn Neurosci, 23, 4022 – 4037 2011.
+
 
 #### Book Chapters:
  
