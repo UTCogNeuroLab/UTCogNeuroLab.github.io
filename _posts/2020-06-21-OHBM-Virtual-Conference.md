@@ -12,11 +12,11 @@ Kim, Derek, and Meg each presented their work that was carried out in collaborat
 
 #### Posters presented at the Conference:
 
-<center><img src="/assets/conferencepics/OHBM/Kim2020.jpg" style="width: 50%; height: 50%"></center>
+<center><img src="/assets/conferencepics/OHBM/Kim2020.jpg" style="width: 80%; height: 80%"></center>
 <br>
 <br>
-<center><img src="/assets/conferencepics/OHBM/mcmahon_ohbm_2020.jpg" style="width: 50%; height: 50%"></center>
+<center><img src="/assets/conferencepics/OHBM/mcmahon_ohbm_2020.jpg" style="width: 80%; height: 80%"></center>
 <br>
 <br>
-<center><img src="/assets/conferencepics/OHBM/Derek2020.jpg" style="width: 50%; height: 50%"></center>
+<center><img src="/assets/conferencepics/OHBM/Derek2020.jpg" style="width: 80%; height: 80%"></center>
 <br>
