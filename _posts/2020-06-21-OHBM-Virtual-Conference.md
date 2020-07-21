@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "OHBM 2020 Virtual Conference"
+date:   2020-06-21 15:05:05 -0600
+categories: scientific meetings
+---
+
+Due to COVID-19, the Organization for Human Brain Mapping meeting went completely virtual for the first time ever!
+We missed traveling to Montreal, but were still able to dive into the science.
+Kim, Derek, and Meg each presented their work that was carried out in collaboration with others at UT.
+
+#### Pictures from the Conference:
+
+<center><img src="/assets/conferencepics/OHBM/OHBMposter_2020KLR.jpg" style="width: 50%; height: 50%"></center>
+<br>
+<center><img src="/assets/conferencepics/OHBM/mcmahon_ohbm_2020.jpg" style="width: 50%; height: 50%"></center>
+<center> Megan with her presentation </center>
+<br>
+<center><img src="/assets/conferencepics/OHBM/Derek2020.jpg" style="width: 50%; height: 50%"></center>
+<br>
