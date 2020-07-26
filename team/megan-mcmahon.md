@@ -14,9 +14,9 @@ twitter:
 permalink: /people/meganmcmahon/
 ---
 
-Megan is a third year doctoral student in the clinical psychology program. She earned a bachelor's degree in Neuroscience from the College of William and Mary. She then developed broad research experience at Virginia Commonwealth University's School of Engineering and School of Medicine in brain computer interfaces, traumatic brain injury, clinical trials, and disability and stigma. She has published several peer-reviewed articles in the Journal of Vocational Rehabilitation, Rehabilitation Psychology, WORK, and the Journal of Oncology Practice. Megan also served as Director of Operations for Virginia Catalyst, a state-funded non-profit coorporation which awards grants to collaborative project teams of university and industry leaders seeking to commercialize translational research innovations that improve human health.
+Megan is a third year doctoral student in the clinical psychology program. She earned a bachelor's degree in neuroscience from the College of William and Mary. She then developed a broad research experience at Virginia Commonwealth University's School of Engineering and School of Medicine in brain computer interfaces, traumatic brain injury, clinical trials, and disability and stigma. She has published several peer-reviewed articles in the Journal of Vocational Rehabilitation, Rehabilitation Psychology, WORK, and the Journal of Oncology Practice. Megan also served as Director of Operations for Virginia Catalyst, a state-funded non-profit coorporation which awards grants to collaborative project teams of university and industry leaders seeking to commercialize translational research innovations that improve human health.
 
-Currenty, Megan's research focuses on using wearable technology and neuroimaging to better understand how sleep and circadian rhythms interact with brain health across the adult lifespan. 
+Currenty, Megan's research focuses on using wearable technology and neuroimaging to better understand how sleep and circadian rhythms are associated with brain health across the adult lifespan. 
 
 #### Posters:
 
