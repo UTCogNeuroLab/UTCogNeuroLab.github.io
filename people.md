@@ -172,17 +172,13 @@ weight: 3
 <center> Katherine Glogowski </center>
 <center> Apurvu Gunturu </center>
 <center> Marissa Hansen </center>
-<center> Chand Hashim </center>
 <center> Michelle Hernandez </center>
 <center> Haana Janmohamed </center>
-<center> Atharva Kulkarni </center>
 <center> Simren Lakhotia </center>
 <center> Italia Lopez </center>
-<center> Yoshita Malneedi </center>
 <center> David Marquez </center>
 <center> Isabella McConley </center>
 <center> Cailyn Meyer </center>
-<center> Bill Nyaoga </center>
 <center> Annesley Pulse </center>
 <center> Anjali Raghavan </center>
 <center> Corey Snyder </center>
@@ -272,6 +268,15 @@ weight: 3
 <center><font size = "2">Graduate Student in Clinical Neuropsychology, University of Alabama, Birmingham</font></center>
 <br>
 
+<center> Yoshita Malneedi </center>
+<br>
+
+<center> Chand Hashim </center>
+<br>
+
+<center> Atharva Kulkarni </center>
+<br>
+
 <center>Evan Alvarez-Keesee</center>
 <br>
 
@@ -286,3 +291,4 @@ weight: 3
 
 <center> Pauline Do </center>
 <br>
+
