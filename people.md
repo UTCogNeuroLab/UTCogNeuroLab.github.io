@@ -73,6 +73,22 @@ weight: 3
 <h5 style="margin-top:0; margin-bottom:0"> Chief Study Coordinator</h5>
 <h5 style="margin-top:0; margin-bottom:0;"> TRACK-TBI</h5>
 
+</div>
+
+<p style="clear: both;">
+
+<!-- Peter Wu -->
+
+<div>
+
+<img src="/assets/peterwu.jpg" hspace="10" style="width:150px; height:200px; float:left; margin: 10px;">
+<h3 style="margin-bottom:0;"> <a href="/people/peterwu/"> Congyu “Peter” Wu </a></h3>
+<h5 style="margin-top:0; margin-bottom:0;"> Postdoctoral Fellow </h5>
+<a href="https://www.researchgate.net/profile/Congyu_Wu" target="_blank"><i class="ai ai-researchgate-square ai-lg"></i></a>
+<a href="http://scholar.google.com/citations?user=i-QMWCoAAAAJ&hl" target="_blank"><i class="ai ai-google-scholar-square ai-lg"></i></a>
+<a href="https://www.linkedin.com/in/congyu-peter-wu-ph-d-52471b32/" target="_blank"><i class="fab fab fa-linkedin fa-lg"></i></a>
+<a href="mailto: congyu.wu@austin.utexas.edu"><i class="fas fa-envelope-square fa-lg"></i></a>
+<a href="https://github.com/cw9dd" target="_blank"><i class="fab fa-github-square fa-lg"></i></a>
 
 </div>
 
