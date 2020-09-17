@@ -2,7 +2,7 @@
 layout: team-member
 person: "Congyu “Peter” Wu"
 position: "Postdoctoral Fellow"
-image: "/assets/peterwu.jpg"
+image: "/assets/peter-wu.jpg"
 github: cw9dd
 googlescholar: i-QMWCoAAAAJ&hl
 researchgate: Congyu_Wu

@@ -81,7 +81,7 @@ weight: 3
 
 <div>
 
-<img src="/assets/peterwu.jpg" hspace="10" style="width:150px; height:200px; float:left; margin: 10px;">
+<img src="/assets/peter-wu.jpg" hspace="10" style="width:150px; height:200px; float:left; margin: 10px;">
 <h3 style="margin-bottom:0;"> <a href="/people/peterwu/"> Congyu “Peter” Wu </a></h3>
 <h5 style="margin-top:0; margin-bottom:0;"> Postdoctoral Fellow </h5>
 <a href="https://www.researchgate.net/profile/Congyu_Wu" target="_blank"><i class="ai ai-researchgate-square ai-lg"></i></a>
