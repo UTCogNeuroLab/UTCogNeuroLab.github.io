@@ -6,7 +6,16 @@ weight: 5
 ---
 # __Publications__
 
+|**2020**|
+|John JK, Satris GG, Dalle Ore CL, Huie JR, Deng H, Winkler EA, Lee YM, Vassar MJ, Taylor S, Schnyer DM, Lingsma HF, Puccio AM, Yuh EL, Mukherjee P, Valadka AB, Ferguson AR, Markowitz AJ, Okonkwo DO, Manley GT and the TRACK-TBI Investigators. (2020). Polytrauma Is Associated with Increased Three- and Six-Month Disability after Traumatic Brain Injury: A TRACK-TBI Pilot Study Neurotrauma Reports. 1(1)|
+|Rigney, A., Schnyer, D.M., Hu, X. & Beer, J. (accepted). Mechanisms of a spotless self-image: Navigating negative, self-relevant feedback. Self and Identity.|
+|Hsu, K.J., McNamara, M.E., Shumake, J., Stewart, R.A., Labrada, J., Alario, A., Gonzalez, G.D.S.,  Schnyer, D.M. & Beevers, C.G. (Accepted). Neurocognitive predictors of self-reported reward responsivity and approach motivation in depression: a data-driven approach. Depression and Anxiety.|
+|Griffin, N. R., & Schnyer, D. M. (2020). Memory distortion for orthographically associated words in individuals with depressive symptoms. Cognition, 203. https://doi.org/10.1016/j.cognition.2020.104330|
+|Yue, J.K., Phelps, R., Winkler, E., Deng, H., Upadhyayula, P., Vassar, M., Madhok, D., Schnyer, D.M., Puccio, A., Lingsma, H., Yuh, E., Mukherjee, P., Valadka, A., Okonkwo, D. & Manley, G. (accepted). Substance use on admission toxicology screen is associated with peri-injury factors and six-month outcome after traumatic brain injury: A TRACK-TBI Pilot Study. Journal of Clinical Neuroscience. 75:149-156.| 
+
+
 |**2019**|
+|Pisner, D.A., Shumake, J., Beevers, C.G. & Schnyer, D.M. (2019). The Superior Longitudinal Fasciculus and its Functional Triple-Network Mechanisms in Brooding. Neuroimage: Clinical, 24,101935. doi:10.1016/j.nicl.2019.101935|
 |Gonzalez, G. D. S., & Schnyer, D. M. (2019). Attention and Working Memory Biases to Black and Asian Faces During Intergroup Contexts. Frontiers in Psychology, 9, 385. http://doi.org/10.3389/fpsyg.2018.02743.|
 |Mathews, M.D., & Schnyer, D.M. (Eds). Human Performance Optimization: The Science and Ethics of Enhancing Human Capabilities. (2019). Oxford University Press|
 |Wickwire, E. M., Albrecht, J. S., Griffin, N. R., Schnyer, D. M., Yue, J. K., Markowitz, A. J., Okonkwo, D. O., Valadka, A. B., Badjatia, N., Manley, G. T. (2019). Sleep disturbances precede depressive symptomatology following traumatic brain injury. Current Neurobiology, 10(2), 49-55.|
