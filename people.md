@@ -159,7 +159,7 @@ weight: 3
 <center> Italia Lopez </center>
 <center> David Marquez </center>
 <center> Isabella McConley </center>
-<center> Cailyn Meyer </center>
+<center> Sarah Parker </center>
 <center> Annesley Pulse </center>
 <center> Anjali Raghavan </center>
 <center> Corey Snyder </center>
@@ -255,6 +255,9 @@ weight: 3
 
 <center>Haley Bednarz</center>
 <center><font size = "2">Graduate Student in Clinical Neuropsychology, University of Alabama, Birmingham</font></center>
+<br>
+
+<center> Cailyn Meyer </center>
 <br>
 
 <center> Yoshita Malneedi </center>
