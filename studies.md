@@ -15,7 +15,7 @@ Please see below for more information about our current studies.
 
 The purpose of the study is to investigate the validity of wearable and home health electronics for measuring rest-activity cycles and sleep composition. <br>
 
-We are currently seeking healthy adults ages 60-89 who are willing to wear 2 activity monitoring devices (eg., Fitbit) for 2 weeks. **All study activities will take place through contactless procedures.** Participants will be able to keep a Fitbit Charge 2 HR device as compensation for their involvement in the study. They will also receive a personalized sleep-activity report. <br>
+We are currently seeking healthy adults ages 60-89 who are willing to wear 2 activity monitoring devices (eg., Fitbit) for 2 weeks. **All study activities will take place through contactless procedures.** Participants will be able to keep a Fitbit Inspire HR device as compensation for their involvement in the study. They will also receive a personalized sleep-activity report. <br>
 
 ### [I'm interested!](https://redcap.prc.utexas.edu/redcap/surveys/?s=CPRNKN7TW9) <br> <br> <br>
 
