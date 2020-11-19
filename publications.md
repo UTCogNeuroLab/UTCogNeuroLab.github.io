@@ -7,6 +7,7 @@ weight: 5
 # __Publications__
 
 |**2020**|
+|McMahon, M, Malneedi, Y, Worthy, D. & Schnyer, DM (accepted). Rest-Activity Rhythms and White Matter Microstructure Across the Lifespan. Sleep|
 |John JK, Satris GG, Dalle Ore CL, Huie JR, Deng H, Winkler EA, Lee YM, Vassar MJ, Taylor S, Schnyer DM, Lingsma HF, Puccio AM, Yuh EL, Mukherjee P, Valadka AB, Ferguson AR, Markowitz AJ, Okonkwo DO, Manley GT and the TRACK-TBI Investigators. (2020). Polytrauma Is Associated with Increased Three- and Six-Month Disability after Traumatic Brain Injury: A TRACK-TBI Pilot Study Neurotrauma Reports. 1(1)|
 |Rigney, A., Schnyer, D.M., Hu, X. & Beer, J. (accepted). Mechanisms of a spotless self-image: Navigating negative, self-relevant feedback. Self and Identity.|
 |Hsu, K.J., McNamara, M.E., Shumake, J., Stewart, R.A., Labrada, J., Alario, A., Gonzalez, G.D.S.,  Schnyer, D.M. & Beevers, C.G. (Accepted). Neurocognitive predictors of self-reported reward responsivity and approach motivation in depression: a data-driven approach. Depression and Anxiety.|
