@@ -13,12 +13,12 @@ weight: 5
 |Bazarian, J.J., Elbin, R.J., Casa, D.J., Hotz, G.A., Neville, C., Lopez, R.M., Schnyer, D.M., Yeargin, S. & Covassin, T. (2021). Validation of a Machine Learning Brain Electrical Activity–Based Index to Aid in Diagnosing Concussion Among Athletes. JAMA Network Open.|
 
 |**2020**|
-|McMahon, M, Malneedi, Y, Worthy, D. & Schnyer, DM (accepted). Rest-Activity Rhythms and White Matter Microstructure Across the Lifespan. Sleep|
+|McMahon, M, Malneedi, Y, Worthy, D. & Schnyer, DM (2020). Rest-Activity Rhythms and White Matter Microstructure Across the Lifespan. Sleep|
 |John JK, Satris GG, Dalle Ore CL, Huie JR, Deng H, Winkler EA, Lee YM, Vassar MJ, Taylor S, Schnyer DM, Lingsma HF, Puccio AM, Yuh EL, Mukherjee P, Valadka AB, Ferguson AR, Markowitz AJ, Okonkwo DO, Manley GT and the TRACK-TBI Investigators. (2020). Polytrauma Is Associated with Increased Three- and Six-Month Disability after Traumatic Brain Injury: A TRACK-TBI Pilot Study Neurotrauma Reports. 1(1)|
-|Rigney, A., Schnyer, D.M., Hu, X. & Beer, J. (accepted). Mechanisms of a spotless self-image: Navigating negative, self-relevant feedback. Self and Identity.|
-|Hsu, K.J., McNamara, M.E., Shumake, J., Stewart, R.A., Labrada, J., Alario, A., Gonzalez, G.D.S.,  Schnyer, D.M. & Beevers, C.G. (Accepted). Neurocognitive predictors of self-reported reward responsivity and approach motivation in depression: a data-driven approach. Depression and Anxiety.|
+|Rigney, A., Schnyer, D.M., Hu, X. & Beer, J. (2020). Mechanisms of a spotless self-image: Navigating negative, self-relevant feedback. Self and Identity.|
+|Hsu, K.J., McNamara, M.E., Shumake, J., Stewart, R.A., Labrada, J., Alario, A., Gonzalez, G.D.S.,  Schnyer, D.M. & Beevers, C.G. (2020). Neurocognitive predictors of self-reported reward responsivity and approach motivation in depression: a data-driven approach. Depression and Anxiety.37(7), 682-697|
 |Griffin, N. R., & Schnyer, D. M. (2020). Memory distortion for orthographically associated words in individuals with depressive symptoms. Cognition, 203. https://doi.org/10.1016/j.cognition.2020.104330|
-|Yue, J.K., Phelps, R., Winkler, E., Deng, H., Upadhyayula, P., Vassar, M., Madhok, D., Schnyer, D.M., Puccio, A., Lingsma, H., Yuh, E., Mukherjee, P., Valadka, A., Okonkwo, D. & Manley, G. (accepted). Substance use on admission toxicology screen is associated with peri-injury factors and six-month outcome after traumatic brain injury: A TRACK-TBI Pilot Study. Journal of Clinical Neuroscience. 75:149-156.| 
+|Yue, J.K., Phelps, R., Winkler, E., Deng, H., Upadhyayula, P., Vassar, M., Madhok, D., Schnyer, D.M., Puccio, A., Lingsma, H., Yuh, E., Mukherjee, P., Valadka, A., Okonkwo, D. & Manley, G. (2020). Substance use on admission toxicology screen is associated with peri-injury factors and six-month outcome after traumatic brain injury: A TRACK-TBI Pilot Study. Journal of Clinical Neuroscience. 75:149-156.| 
 
 
 |**2019**|
