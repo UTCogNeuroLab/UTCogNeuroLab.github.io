@@ -6,6 +6,12 @@ weight: 5
 ---
 # __Publications__
 
+|**2021**|
+|1.	McNamara, M., Shumake, J., Stewart, R.A., Labrada, J., Alario, A., Allen, J.J.B., Palmer, R., Schnyer, D.M., McGeary, J. & Beevers, C.G. (2021). Multifactorial Prediction of Depression Diagnosis and Symptom Dimensions. Psychiatry Research.| 
+|Wu, C., Barczyk, A.N., Craddock, R., Harari, G.M., Thomaz, E., Shumake, J., Beevers, C., Gosling, S., & Schnyer, D.M. (2021). Improving Prediction of Real-Time Loneliness and Companionship Type Using Geosocial Features of Personal Smartphone Data. Smart Health.| 
+|Hsu, K.J., Shumake, J., Caffey, K., Risom, S., Labrada, J., Smits, J., Schnyer, D.M. & Beevers, C.G. (2021). Efficacy of Attention Bias Modification Training for Depressed Adults: A Randomized Clinical Trial. Psychological Medicine.|
+|Bazarian, J.J., Elbin, R.J., Casa, D.J., Hotz, G.A., Neville, C., Lopez, R.M., Schnyer, D.M., Yeargin, S. & Covassin, T. (2021). Validation of a Machine Learning Brain Electrical Activity–Based Index to Aid in Diagnosing Concussion Among Athletes. JAMA Network Open.|
+
 |**2020**|
 |McMahon, M, Malneedi, Y, Worthy, D. & Schnyer, DM (accepted). Rest-Activity Rhythms and White Matter Microstructure Across the Lifespan. Sleep|
 |John JK, Satris GG, Dalle Ore CL, Huie JR, Deng H, Winkler EA, Lee YM, Vassar MJ, Taylor S, Schnyer DM, Lingsma HF, Puccio AM, Yuh EL, Mukherjee P, Valadka AB, Ferguson AR, Markowitz AJ, Okonkwo DO, Manley GT and the TRACK-TBI Investigators. (2020). Polytrauma Is Associated with Increased Three- and Six-Month Disability after Traumatic Brain Injury: A TRACK-TBI Pilot Study Neurotrauma Reports. 1(1)|
