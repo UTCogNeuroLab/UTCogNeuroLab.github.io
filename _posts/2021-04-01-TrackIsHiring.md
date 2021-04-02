@@ -33,4 +33,4 @@ Previous experience in a wet lab is desirable. 2 Year commitment is preferred.
 https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Social-Science-Humanities-Research-Associate-II_R_00012308
 https://enterprise.login.utexas.edu/idp/profile/SAML2/POST/SSO?execution=e1s2
 
-Contact Robin McGee for more information: robinmcgee - at - utexas.edu 
+Contact Robin McGee for more information: robinmcgee -at- utexas -dot- edu 
