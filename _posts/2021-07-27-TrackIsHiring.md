@@ -37,8 +37,7 @@ Previous experience in a wet lab is desirable. 2 Year commitment is preferred.
 
 External Applicants
 
-https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Social-Science-Humanities-Research-Associate-II_R_00012308
-
+https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Social-Science-Humanities-Research-Associate-II_R_00014331-1
 Internal Applicants
 
-https://enterprise.login.utexas.edu/idp/profile/SAML2/POST/SSO?execution=e1s2
+https://www.myworkday.com/utaustin/d/inst/15$392530/9925$20735.htmld
