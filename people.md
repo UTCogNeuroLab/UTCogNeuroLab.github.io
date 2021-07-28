@@ -176,6 +176,10 @@ weight: 3
 <center><font size = "2"><em>Next career step is noted under each alum</em></font></center>
 <br>
 
+<center> Jackie Harle </center>
+<center><font size = "2"> Medical Student, University of Incarnate Word School of Osteopathic Medicine </font></center>
+<br>
+
 <center> Guadalupe Gonzalez </center>
 <center><font size = "2"> Assistant Professor of Psychology at Allegheny College </font></center>
 <br>
