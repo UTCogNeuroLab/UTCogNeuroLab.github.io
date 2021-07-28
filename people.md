@@ -81,8 +81,8 @@ weight: 3
 
 <div>
 
-<img src="/assets/SNatal.jpeg" hspace="10" style="width:150px; height:200px; float:left; margin: 10px;">
-<h3 style="margin-bottom:0; "> <a href="/people/robinmcgee/"> Robin McGee </a></h3>
+<img src="/assets/SNatal.jpg" hspace="10" style="width:150px; height:200px; float:left; margin: 10px;">
+<h3 style="margin-bottom:0; "> <a href="/people/robinmcgee/"> Samantha Natal </a></h3>
 <h5 style="margin-top:0; margin-bottom:0"> Study Coordinator</h5>
 <h5 style="margin-top:0; margin-bottom:0;"> TRACK-TBI</h5>
 
